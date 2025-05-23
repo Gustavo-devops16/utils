@@ -26,10 +26,6 @@ def save_to_json(data, output_file):
 def excel_to_json(input_file="shopee_brands.xlsx", output_file="brands_2.json"):
     df = read_excel_file(input_file)
     
-    if df is None or df.empty:
-        print("No valid data to process")
-        return
-    
     data = dataframe_to_dict(df)
     
     
