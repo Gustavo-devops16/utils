@@ -1,0 +1,4002 @@
+[
+    {
+        "brand_id": 1964869,
+        "original_brand_name": "Coyote",
+        "display_brand_name": "Coyote"
+    },
+    {
+        "brand_id": 1966526,
+        "original_brand_name": "PARAMAX",
+        "display_brand_name": "PARAMAX"
+    },
+    {
+        "brand_id": 1966753,
+        "original_brand_name": "Raven",
+        "display_brand_name": "Raven"
+    },
+    {
+        "brand_id": 1967422,
+        "original_brand_name": "Visbella",
+        "display_brand_name": "Visbella"
+    },
+    {
+        "brand_id": 1968902,
+        "original_brand_name": "Black Bull",
+        "display_brand_name": "Black Bull"
+    },
+    {
+        "brand_id": 2384342,
+        "original_brand_name": "Bestfer",
+        "display_brand_name": "Bestfer"
+    },
+    {
+        "brand_id": 2384545,
+        "original_brand_name": "CINOY",
+        "display_brand_name": "CINOY"
+    },
+    {
+        "brand_id": 2384565,
+        "original_brand_name": "Cobreq",
+        "display_brand_name": "Cobreq"
+    },
+    {
+        "brand_id": 2385007,
+        "original_brand_name": "Gauss",
+        "display_brand_name": "Gauss"
+    },
+    {
+        "brand_id": 2385559,
+        "original_brand_name": "Mayle",
+        "display_brand_name": "Mayle"
+    },
+    {
+        "brand_id": 2385742,
+        "original_brand_name": "Noll",
+        "display_brand_name": "Noll"
+    },
+    {
+        "brand_id": 2386208,
+        "original_brand_name": "Sigma Tools",
+        "display_brand_name": "Sigma Tools"
+    },
+    {
+        "brand_id": 2386272,
+        "original_brand_name": "STELS",
+        "display_brand_name": "STELS"
+    },
+    {
+        "brand_id": 2386513,
+        "original_brand_name": "VONDER",
+        "display_brand_name": "VONDER"
+    },
+    {
+        "brand_id": 2386558,
+        "original_brand_name": "WORKER",
+        "display_brand_name": "WORKER"
+    },
+    {
+        "brand_id": 2386564,
+        "original_brand_name": "WWSoldas",
+        "display_brand_name": "WWSoldas"
+    },
+    {
+        "brand_id": 2413740,
+        "original_brand_name": "fiamon",
+        "display_brand_name": "fiamon"
+    },
+    {
+        "brand_id": 2414362,
+        "original_brand_name": "Chiaperini",
+        "display_brand_name": "Chiaperini"
+    },
+    {
+        "brand_id": 2423810,
+        "original_brand_name": "Cronomac",
+        "display_brand_name": "Cronomac"
+    },
+    {
+        "brand_id": 2425815,
+        "original_brand_name": "JFA Eletronicos",
+        "display_brand_name": "JFA Eletronicos"
+    },
+    {
+        "brand_id": 2433121,
+        "original_brand_name": "Goldentec",
+        "display_brand_name": "Goldentec"
+    },
+    {
+        "brand_id": 2467434,
+        "original_brand_name": "TNT",
+        "display_brand_name": "TNT"
+    },
+    {
+        "brand_id": 2467620,
+        "original_brand_name": "CARPARTES",
+        "display_brand_name": "CARPARTES"
+    },
+    {
+        "brand_id": 2473788,
+        "original_brand_name": "Aquatools",
+        "display_brand_name": "Aquatools"
+    },
+    {
+        "brand_id": 2483080,
+        "original_brand_name": "PERFECT PRO",
+        "display_brand_name": "PERFECT PRO"
+    },
+    {
+        "brand_id": 2492882,
+        "original_brand_name": "TC CHICOTES",
+        "display_brand_name": "TC CHICOTES"
+    },
+    {
+        "brand_id": 2496614,
+        "original_brand_name": "CAR 80",
+        "display_brand_name": "CAR 80"
+    },
+    {
+        "brand_id": 2497727,
+        "original_brand_name": "Hellermann Tyton",
+        "display_brand_name": "Hellermann Tyton"
+    },
+    {
+        "brand_id": 2501220,
+        "original_brand_name": "Euro Machine Ferramentas",
+        "display_brand_name": "Euro Machine Ferramentas"
+    },
+    {
+        "brand_id": 2509043,
+        "original_brand_name": "ESTAMPARIA PAULISTA",
+        "display_brand_name": "ESTAMPARIA PAULISTA"
+    },
+    {
+        "brand_id": 2526592,
+        "original_brand_name": "A Casa das Fontes",
+        "display_brand_name": "A Casa das Fontes"
+    },
+    {
+        "brand_id": 2567780,
+        "original_brand_name": "Kitest",
+        "display_brand_name": "Kitest"
+    },
+    {
+        "brand_id": 2573930,
+        "original_brand_name": "IDEA",
+        "display_brand_name": "IDEA"
+    },
+    {
+        "brand_id": 2601571,
+        "original_brand_name": "Lupus.",
+        "display_brand_name": "Lupus."
+    },
+    {
+        "brand_id": 2601649,
+        "original_brand_name": "ATHOSS FIOS E CABOS",
+        "display_brand_name": "ATHOSS FIOS E CABOS"
+    },
+    {
+        "brand_id": 2602347,
+        "original_brand_name": "Trafotron Transformadores",
+        "display_brand_name": "Trafotron Transformadores"
+    },
+    {
+        "brand_id": 2626913,
+        "original_brand_name": "PERFECT AUTOMOTIVE",
+        "display_brand_name": "PERFECT AUTOMOTIVE"
+    },
+    {
+        "brand_id": 2641934,
+        "original_brand_name": "Vulcanbor",
+        "display_brand_name": "Vulcanbor"
+    },
+    {
+        "brand_id": 2652722,
+        "original_brand_name": "FERPLUS FERRAMENTAS",
+        "display_brand_name": "FERPLUS FERRAMENTAS"
+    },
+    {
+        "brand_id": 2710547,
+        "original_brand_name": "Felar",
+        "display_brand_name": "Felar"
+    },
+    {
+        "brand_id": 2718583,
+        "original_brand_name": "Ouky",
+        "display_brand_name": "Ouky"
+    },
+    {
+        "brand_id": 2735819,
+        "original_brand_name": "MX STAR",
+        "display_brand_name": "MX STAR"
+    },
+    {
+        "brand_id": 2769729,
+        "original_brand_name": "Wurth",
+        "display_brand_name": "Wurth"
+    },
+    {
+        "brand_id": 2794319,
+        "original_brand_name": "CM POLIMENTO",
+        "display_brand_name": "CM POLIMENTO"
+    },
+    {
+        "brand_id": 2828663,
+        "original_brand_name": "COIBEU",
+        "display_brand_name": "COIBEU"
+    },
+    {
+        "brand_id": 2831482,
+        "original_brand_name": "Colina Shop",
+        "display_brand_name": "Colina Shop"
+    },
+    {
+        "brand_id": 2843576,
+        "original_brand_name": "Corneta",
+        "display_brand_name": "Corneta"
+    },
+    {
+        "brand_id": 2855772,
+        "original_brand_name": "Mundo Thata",
+        "display_brand_name": "Mundo Thata"
+    },
+    {
+        "brand_id": 2858638,
+        "original_brand_name": "Olho de gato",
+        "display_brand_name": "Olho de gato"
+    },
+    {
+        "brand_id": 2864673,
+        "original_brand_name": "ProAuto",
+        "display_brand_name": "ProAuto"
+    },
+    {
+        "brand_id": 2882122,
+        "original_brand_name": "LUBE FER",
+        "display_brand_name": "LUBE FER"
+    },
+    {
+        "brand_id": 2902508,
+        "original_brand_name": "Nova Digital",
+        "display_brand_name": "Nova Digital"
+    },
+    {
+        "brand_id": 2920528,
+        "original_brand_name": "zenite",
+        "display_brand_name": "zenite"
+    },
+    {
+        "brand_id": 2923750,
+        "original_brand_name": "Startools Ferramentas",
+        "display_brand_name": "Startools Ferramentas"
+    },
+    {
+        "brand_id": 2937116,
+        "original_brand_name": "OREGON",
+        "display_brand_name": "OREGON"
+    },
+    {
+        "brand_id": 2957289,
+        "original_brand_name": "Mapaseg",
+        "display_brand_name": "Mapaseg"
+    },
+    {
+        "brand_id": 3076790,
+        "original_brand_name": "Bremen",
+        "display_brand_name": "Bremen"
+    },
+    {
+        "brand_id": 3084125,
+        "original_brand_name": "CELPAN",
+        "display_brand_name": "CELPAN"
+    },
+    {
+        "brand_id": 3260570,
+        "original_brand_name": "Over Vision",
+        "display_brand_name": "Over Vision"
+    },
+    {
+        "brand_id": 3412773,
+        "original_brand_name": "Irb automotive",
+        "display_brand_name": "Irb automotive"
+    },
+    {
+        "brand_id": 3431557,
+        "original_brand_name": "Flach",
+        "display_brand_name": "Flach"
+    },
+    {
+        "brand_id": 3470281,
+        "original_brand_name": "Inova",
+        "display_brand_name": "Inova"
+    },
+    {
+        "brand_id": 3486262,
+        "original_brand_name": "MOPAR",
+        "display_brand_name": "MOPAR"
+    },
+    {
+        "brand_id": 3577077,
+        "original_brand_name": "Mercapide",
+        "display_brand_name": "Mercapide"
+    },
+    {
+        "brand_id": 3578340,
+        "original_brand_name": "Solarium",
+        "display_brand_name": "Solarium"
+    },
+    {
+        "brand_id": 3894601,
+        "original_brand_name": "Marpil Plásticos",
+        "display_brand_name": "Marpil Plásticos"
+    },
+    {
+        "brand_id": 3970655,
+        "original_brand_name": "Hutz",
+        "display_brand_name": "Hutz"
+    },
+    {
+        "brand_id": 4128190,
+        "original_brand_name": "TechOne",
+        "display_brand_name": "TechOne"
+    },
+    {
+        "brand_id": 4158774,
+        "original_brand_name": "Western",
+        "display_brand_name": "Western"
+    },
+    {
+        "brand_id": 4162653,
+        "original_brand_name": "Oi Vida",
+        "display_brand_name": "Oi Vida"
+    },
+    {
+        "brand_id": 4167649,
+        "original_brand_name": "BW Adesivos",
+        "display_brand_name": "BW Adesivos"
+    },
+    {
+        "brand_id": 4189437,
+        "original_brand_name": "Joog",
+        "display_brand_name": "Joog"
+    },
+    {
+        "brand_id": 4196525,
+        "original_brand_name": "SL7",
+        "display_brand_name": "SL7"
+    },
+    {
+        "brand_id": 4259136,
+        "original_brand_name": "Camura Online",
+        "display_brand_name": "Camura Online"
+    },
+    {
+        "brand_id": 4273613,
+        "original_brand_name": "SP Equipamentos Rodoviários",
+        "display_brand_name": "SP Equipamentos Rodoviários"
+    },
+    {
+        "brand_id": 4275568,
+        "original_brand_name": "Ejp Shopping Digital",
+        "display_brand_name": "Ejp Shopping Digital"
+    },
+    {
+        "brand_id": 4281532,
+        "original_brand_name": "Idealse",
+        "display_brand_name": "Idealse"
+    },
+    {
+        "brand_id": 4281681,
+        "original_brand_name": "Farecar",
+        "display_brand_name": "Farecar"
+    },
+    {
+        "brand_id": 4284032,
+        "original_brand_name": "Trato",
+        "display_brand_name": "Trato"
+    },
+    {
+        "brand_id": 4286656,
+        "original_brand_name": "Hidraflux",
+        "display_brand_name": "Hidraflux"
+    },
+    {
+        "brand_id": 4297672,
+        "original_brand_name": "Locatti",
+        "display_brand_name": "Locatti"
+    },
+    {
+        "brand_id": 4302840,
+        "original_brand_name": "Steel Prime",
+        "display_brand_name": "Steel Prime"
+    },
+    {
+        "brand_id": 4310982,
+        "original_brand_name": "Relamex",
+        "display_brand_name": "Relamex"
+    },
+    {
+        "brand_id": 4330185,
+        "original_brand_name": "Matsuri",
+        "display_brand_name": "Matsuri"
+    },
+    {
+        "brand_id": 4330617,
+        "original_brand_name": "Ameriparts Automotive",
+        "display_brand_name": "Ameriparts Automotive"
+    },
+    {
+        "brand_id": 4331510,
+        "original_brand_name": "FBG Tools",
+        "display_brand_name": "FBG Tools"
+    },
+    {
+        "brand_id": 4351744,
+        "original_brand_name": "B-Tek",
+        "display_brand_name": "B-Tek"
+    },
+    {
+        "brand_id": 4358645,
+        "original_brand_name": "Araujo Gouveia Ferramentas",
+        "display_brand_name": "Araujo Gouveia Ferramentas"
+    },
+    {
+        "brand_id": 4359039,
+        "original_brand_name": "Quality Home",
+        "display_brand_name": "Quality Home"
+    },
+    {
+        "brand_id": 4359072,
+        "original_brand_name": "ShieldMotors",
+        "display_brand_name": "ShieldMotors"
+    },
+    {
+        "brand_id": 4395028,
+        "original_brand_name": "LUFATECH",
+        "display_brand_name": "LUFATECH"
+    },
+    {
+        "brand_id": 4420258,
+        "original_brand_name": "Minuto Baby",
+        "display_brand_name": "Minuto Baby"
+    },
+    {
+        "brand_id": 4420258,
+        "original_brand_name": "Minuto Baby",
+        "display_brand_name": "Minuto Baby"
+    },
+    {
+        "brand_id": 4424377,
+        "original_brand_name": "Sakamax",
+        "display_brand_name": "Sakamax"
+    },
+    {
+        "brand_id": 4435441,
+        "original_brand_name": "Eight Brazil Industria e Comercio",
+        "display_brand_name": "Eight Brazil Industria e Comercio"
+    },
+    {
+        "brand_id": 4465046,
+        "original_brand_name": "Virtok",
+        "display_brand_name": "Virtok"
+    },
+    {
+        "brand_id": 4531774,
+        "original_brand_name": "Bc Tools",
+        "display_brand_name": "Bc Tools"
+    },
+    {
+        "brand_id": 4551140,
+        "original_brand_name": "HF Presentes",
+        "display_brand_name": "HF Presentes"
+    },
+    {
+        "brand_id": 4558257,
+        "original_brand_name": "Elite Carregadores",
+        "display_brand_name": "Elite Carregadores"
+    },
+    {
+        "brand_id": 4572588,
+        "original_brand_name": "Bargas",
+        "display_brand_name": "Bargas"
+    },
+    {
+        "brand_id": 1964869,
+        "original_brand_name": "Coyote",
+        "display_brand_name": "Coyote"
+    },
+    {
+        "brand_id": 1966526,
+        "original_brand_name": "PARAMAX",
+        "display_brand_name": "PARAMAX"
+    },
+    {
+        "brand_id": 1966753,
+        "original_brand_name": "Raven",
+        "display_brand_name": "Raven"
+    },
+    {
+        "brand_id": 1967422,
+        "original_brand_name": "Visbella",
+        "display_brand_name": "Visbella"
+    },
+    {
+        "brand_id": 1968902,
+        "original_brand_name": "Black Bull",
+        "display_brand_name": "Black Bull"
+    },
+    {
+        "brand_id": 2384342,
+        "original_brand_name": "Bestfer",
+        "display_brand_name": "Bestfer"
+    },
+    {
+        "brand_id": 2384545,
+        "original_brand_name": "CINOY",
+        "display_brand_name": "CINOY"
+    },
+    {
+        "brand_id": 2384565,
+        "original_brand_name": "Cobreq",
+        "display_brand_name": "Cobreq"
+    },
+    {
+        "brand_id": 2385007,
+        "original_brand_name": "Gauss",
+        "display_brand_name": "Gauss"
+    },
+    {
+        "brand_id": 2385559,
+        "original_brand_name": "Mayle",
+        "display_brand_name": "Mayle"
+    },
+    {
+        "brand_id": 2385742,
+        "original_brand_name": "Noll",
+        "display_brand_name": "Noll"
+    },
+    {
+        "brand_id": 2386208,
+        "original_brand_name": "Sigma Tools",
+        "display_brand_name": "Sigma Tools"
+    },
+    {
+        "brand_id": 2386272,
+        "original_brand_name": "STELS",
+        "display_brand_name": "STELS"
+    },
+    {
+        "brand_id": 2386513,
+        "original_brand_name": "VONDER",
+        "display_brand_name": "VONDER"
+    },
+    {
+        "brand_id": 2386558,
+        "original_brand_name": "WORKER",
+        "display_brand_name": "WORKER"
+    },
+    {
+        "brand_id": 2386564,
+        "original_brand_name": "WWSoldas",
+        "display_brand_name": "WWSoldas"
+    },
+    {
+        "brand_id": 2413548,
+        "original_brand_name": "leg speed",
+        "display_brand_name": "leg speed"
+    },
+    {
+        "brand_id": 2413740,
+        "original_brand_name": "fiamon",
+        "display_brand_name": "fiamon"
+    },
+    {
+        "brand_id": 2414362,
+        "original_brand_name": "Chiaperini",
+        "display_brand_name": "Chiaperini"
+    },
+    {
+        "brand_id": 2423810,
+        "original_brand_name": "Cronomac",
+        "display_brand_name": "Cronomac"
+    },
+    {
+        "brand_id": 2425815,
+        "original_brand_name": "JFA Eletronicos",
+        "display_brand_name": "JFA Eletronicos"
+    },
+    {
+        "brand_id": 2433121,
+        "original_brand_name": "Goldentec",
+        "display_brand_name": "Goldentec"
+    },
+    {
+        "brand_id": 2467434,
+        "original_brand_name": "TNT",
+        "display_brand_name": "TNT"
+    },
+    {
+        "brand_id": 2467620,
+        "original_brand_name": "CARPARTES",
+        "display_brand_name": "CARPARTES"
+    },
+    {
+        "brand_id": 2473788,
+        "original_brand_name": "Aquatools",
+        "display_brand_name": "Aquatools"
+    },
+    {
+        "brand_id": 2483080,
+        "original_brand_name": "PERFECT PRO",
+        "display_brand_name": "PERFECT PRO"
+    },
+    {
+        "brand_id": 2492882,
+        "original_brand_name": "TC CHICOTES",
+        "display_brand_name": "TC CHICOTES"
+    },
+    {
+        "brand_id": 2496614,
+        "original_brand_name": "CAR 80",
+        "display_brand_name": "CAR 80"
+    },
+    {
+        "brand_id": 2497727,
+        "original_brand_name": "Hellermann Tyton",
+        "display_brand_name": "Hellermann Tyton"
+    },
+    {
+        "brand_id": 2501220,
+        "original_brand_name": "Euro Machine Ferramentas",
+        "display_brand_name": "Euro Machine Ferramentas"
+    },
+    {
+        "brand_id": 2509043,
+        "original_brand_name": "ESTAMPARIA PAULISTA",
+        "display_brand_name": "ESTAMPARIA PAULISTA"
+    },
+    {
+        "brand_id": 2526592,
+        "original_brand_name": "A Casa das Fontes",
+        "display_brand_name": "A Casa das Fontes"
+    },
+    {
+        "brand_id": 2567780,
+        "original_brand_name": "Kitest",
+        "display_brand_name": "Kitest"
+    },
+    {
+        "brand_id": 2573930,
+        "original_brand_name": "IDEA",
+        "display_brand_name": "IDEA"
+    },
+    {
+        "brand_id": 2601571,
+        "original_brand_name": "Lupus.",
+        "display_brand_name": "Lupus."
+    },
+    {
+        "brand_id": 2601649,
+        "original_brand_name": "ATHOSS FIOS E CABOS",
+        "display_brand_name": "ATHOSS FIOS E CABOS"
+    },
+    {
+        "brand_id": 2602347,
+        "original_brand_name": "Trafotron Transformadores",
+        "display_brand_name": "Trafotron Transformadores"
+    },
+    {
+        "brand_id": 2641934,
+        "original_brand_name": "Vulcanbor",
+        "display_brand_name": "Vulcanbor"
+    },
+    {
+        "brand_id": 2652722,
+        "original_brand_name": "FERPLUS FERRAMENTAS",
+        "display_brand_name": "FERPLUS FERRAMENTAS"
+    },
+    {
+        "brand_id": 2710547,
+        "original_brand_name": "Felar",
+        "display_brand_name": "Felar"
+    },
+    {
+        "brand_id": 2718583,
+        "original_brand_name": "Ouky",
+        "display_brand_name": "Ouky"
+    },
+    {
+        "brand_id": 2735819,
+        "original_brand_name": "MX STAR",
+        "display_brand_name": "MX STAR"
+    },
+    {
+        "brand_id": 2760751,
+        "original_brand_name": "X-cell",
+        "display_brand_name": "x-cell"
+    },
+    {
+        "brand_id": 2769729,
+        "original_brand_name": "Wurth",
+        "display_brand_name": "Wurth"
+    },
+    {
+        "brand_id": 2794319,
+        "original_brand_name": "CM POLIMENTO",
+        "display_brand_name": "CM POLIMENTO"
+    },
+    {
+        "brand_id": 2828663,
+        "original_brand_name": "COIBEU",
+        "display_brand_name": "COIBEU"
+    },
+    {
+        "brand_id": 2831482,
+        "original_brand_name": "Colina Shop",
+        "display_brand_name": "Colina Shop"
+    },
+    {
+        "brand_id": 2843576,
+        "original_brand_name": "Corneta",
+        "display_brand_name": "Corneta"
+    },
+    {
+        "brand_id": 2855772,
+        "original_brand_name": "Mundo Thata",
+        "display_brand_name": "Mundo Thata"
+    },
+    {
+        "brand_id": 2858638,
+        "original_brand_name": "Olho de gato",
+        "display_brand_name": "Olho de gato"
+    },
+    {
+        "brand_id": 2864673,
+        "original_brand_name": "ProAuto",
+        "display_brand_name": "ProAuto"
+    },
+    {
+        "brand_id": 2882122,
+        "original_brand_name": "LUBE FER",
+        "display_brand_name": "LUBE FER"
+    },
+    {
+        "brand_id": 2902508,
+        "original_brand_name": "Nova Digital",
+        "display_brand_name": "Nova Digital"
+    },
+    {
+        "brand_id": 2920528,
+        "original_brand_name": "zenite",
+        "display_brand_name": "zenite"
+    },
+    {
+        "brand_id": 2923750,
+        "original_brand_name": "Startools Ferramentas",
+        "display_brand_name": "Startools Ferramentas"
+    },
+    {
+        "brand_id": 2937116,
+        "original_brand_name": "OREGON",
+        "display_brand_name": "OREGON"
+    },
+    {
+        "brand_id": 2957289,
+        "original_brand_name": "Mapaseg",
+        "display_brand_name": "Mapaseg"
+    },
+    {
+        "brand_id": 2958018,
+        "original_brand_name": "TF ferramentas",
+        "display_brand_name": "TF ferramentas"
+    },
+    {
+        "brand_id": 3076790,
+        "original_brand_name": "Bremen",
+        "display_brand_name": "Bremen"
+    },
+    {
+        "brand_id": 3084125,
+        "original_brand_name": "CELPAN",
+        "display_brand_name": "CELPAN"
+    },
+    {
+        "brand_id": 3132060,
+        "original_brand_name": "WR MOTO IMPORT",
+        "display_brand_name": "WR MOTO IMPORT"
+    },
+    {
+        "brand_id": 3260570,
+        "original_brand_name": "Over Vision",
+        "display_brand_name": "Over Vision"
+    },
+    {
+        "brand_id": 3412773,
+        "original_brand_name": "Irb automotive",
+        "display_brand_name": "Irb automotive"
+    },
+    {
+        "brand_id": 3431557,
+        "original_brand_name": "Flach",
+        "display_brand_name": "Flach"
+    },
+    {
+        "brand_id": 3470281,
+        "original_brand_name": "Inova",
+        "display_brand_name": "Inova"
+    },
+    {
+        "brand_id": 3486262,
+        "original_brand_name": "MOPAR",
+        "display_brand_name": "MOPAR"
+    },
+    {
+        "brand_id": 3520124,
+        "original_brand_name": "Metalpem",
+        "display_brand_name": "Metalpem"
+    },
+    {
+        "brand_id": 3577077,
+        "original_brand_name": "Mercapide",
+        "display_brand_name": "Mercapide"
+    },
+    {
+        "brand_id": 3578340,
+        "original_brand_name": "Solarium",
+        "display_brand_name": "Solarium"
+    },
+    {
+        "brand_id": 3721210,
+        "original_brand_name": "Ferramentas Online",
+        "display_brand_name": "Ferramentas Online"
+    },
+    {
+        "brand_id": 3894601,
+        "original_brand_name": "Marpil Plásticos",
+        "display_brand_name": "Marpil Plásticos"
+    },
+    {
+        "brand_id": 3970655,
+        "original_brand_name": "Hutz",
+        "display_brand_name": "Hutz"
+    },
+    {
+        "brand_id": 4128190,
+        "original_brand_name": "TechOne",
+        "display_brand_name": "TechOne"
+    },
+    {
+        "brand_id": 4158774,
+        "original_brand_name": "Western",
+        "display_brand_name": "Western"
+    },
+    {
+        "brand_id": 4162653,
+        "original_brand_name": "Oi Vida",
+        "display_brand_name": "Oi Vida"
+    },
+    {
+        "brand_id": 4167649,
+        "original_brand_name": "BW Adesivos",
+        "display_brand_name": "BW Adesivos"
+    },
+    {
+        "brand_id": 4189437,
+        "original_brand_name": "Joog",
+        "display_brand_name": "Joog"
+    },
+    {
+        "brand_id": 4196525,
+        "original_brand_name": "SL7",
+        "display_brand_name": "SL7"
+    },
+    {
+        "brand_id": 4259136,
+        "original_brand_name": "Camura Online",
+        "display_brand_name": "Camura Online"
+    },
+    {
+        "brand_id": 4273613,
+        "original_brand_name": "SP Equipamentos Rodoviários",
+        "display_brand_name": "SP Equipamentos Rodoviários"
+    },
+    {
+        "brand_id": 4275568,
+        "original_brand_name": "Ejp Shopping Digital",
+        "display_brand_name": "Ejp Shopping Digital"
+    },
+    {
+        "brand_id": 4281681,
+        "original_brand_name": "Farecar",
+        "display_brand_name": "Farecar"
+    },
+    {
+        "brand_id": 4284032,
+        "original_brand_name": "Trato",
+        "display_brand_name": "Trato"
+    },
+    {
+        "brand_id": 4286656,
+        "original_brand_name": "Hidraflux",
+        "display_brand_name": "Hidraflux"
+    },
+    {
+        "brand_id": 4297672,
+        "original_brand_name": "Locatti",
+        "display_brand_name": "Locatti"
+    },
+    {
+        "brand_id": 4302840,
+        "original_brand_name": "Steel Prime",
+        "display_brand_name": "Steel Prime"
+    },
+    {
+        "brand_id": 4310982,
+        "original_brand_name": "Relamex",
+        "display_brand_name": "Relamex"
+    },
+    {
+        "brand_id": 4330185,
+        "original_brand_name": "Matsuri",
+        "display_brand_name": "Matsuri"
+    },
+    {
+        "brand_id": 4330617,
+        "original_brand_name": "Ameriparts Automotive",
+        "display_brand_name": "Ameriparts Automotive"
+    },
+    {
+        "brand_id": 4331510,
+        "original_brand_name": "FBG Tools",
+        "display_brand_name": "FBG Tools"
+    },
+    {
+        "brand_id": 4351744,
+        "original_brand_name": "B-Tek",
+        "display_brand_name": "B-Tek"
+    },
+    {
+        "brand_id": 4358645,
+        "original_brand_name": "Araujo Gouveia Ferramentas",
+        "display_brand_name": "Araujo Gouveia Ferramentas"
+    },
+    {
+        "brand_id": 4359039,
+        "original_brand_name": "Quality Home",
+        "display_brand_name": "Quality Home"
+    },
+    {
+        "brand_id": 4359072,
+        "original_brand_name": "ShieldMotors",
+        "display_brand_name": "ShieldMotors"
+    },
+    {
+        "brand_id": 4395028,
+        "original_brand_name": "LUFATECH",
+        "display_brand_name": "LUFATECH"
+    },
+    {
+        "brand_id": 4420258,
+        "original_brand_name": "Minuto Baby",
+        "display_brand_name": "Minuto Baby"
+    },
+    {
+        "brand_id": 4424377,
+        "original_brand_name": "Sakamax",
+        "display_brand_name": "Sakamax"
+    },
+    {
+        "brand_id": 4435441,
+        "original_brand_name": "Eight Brazil Industria e Comercio",
+        "display_brand_name": "Eight Brazil Industria e Comercio"
+    },
+    {
+        "brand_id": 4465046,
+        "original_brand_name": "Virtok",
+        "display_brand_name": "Virtok"
+    },
+    {
+        "brand_id": 4531774,
+        "original_brand_name": "Bc Tools",
+        "display_brand_name": "Bc Tools"
+    },
+    {
+        "brand_id": 1964869,
+        "original_brand_name": "Coyote",
+        "display_brand_name": "Coyote"
+    },
+    {
+        "brand_id": 1966526,
+        "original_brand_name": "PARAMAX",
+        "display_brand_name": "PARAMAX"
+    },
+    {
+        "brand_id": 1966753,
+        "original_brand_name": "Raven",
+        "display_brand_name": "Raven"
+    },
+    {
+        "brand_id": 1967422,
+        "original_brand_name": "Visbella",
+        "display_brand_name": "Visbella"
+    },
+    {
+        "brand_id": 1968902,
+        "original_brand_name": "Black Bull",
+        "display_brand_name": "Black Bull"
+    },
+    {
+        "brand_id": 1969209,
+        "original_brand_name": "MTX",
+        "display_brand_name": "MTX"
+    },
+    {
+        "brand_id": 2384342,
+        "original_brand_name": "Bestfer",
+        "display_brand_name": "Bestfer"
+    },
+    {
+        "brand_id": 2384399,
+        "original_brand_name": "BOSAL",
+        "display_brand_name": "BOSAL"
+    },
+    {
+        "brand_id": 2384545,
+        "original_brand_name": "CINOY",
+        "display_brand_name": "CINOY"
+    },
+    {
+        "brand_id": 2384565,
+        "original_brand_name": "Cobreq",
+        "display_brand_name": "Cobreq"
+    },
+    {
+        "brand_id": 2384798,
+        "original_brand_name": "Eda Profissional",
+        "display_brand_name": "Eda Profissional"
+    },
+    {
+        "brand_id": 2385007,
+        "original_brand_name": "Gauss",
+        "display_brand_name": "Gauss"
+    },
+    {
+        "brand_id": 2385556,
+        "original_brand_name": "Maxx Premium",
+        "display_brand_name": "Maxx Premium"
+    },
+    {
+        "brand_id": 2385559,
+        "original_brand_name": "Mayle",
+        "display_brand_name": "Mayle"
+    },
+    {
+        "brand_id": 2385623,
+        "original_brand_name": "Mobil",
+        "display_brand_name": "Mobil"
+    },
+    {
+        "brand_id": 2385742,
+        "original_brand_name": "Noll",
+        "display_brand_name": "Noll"
+    },
+    {
+        "brand_id": 2386028,
+        "original_brand_name": "Radnaq",
+        "display_brand_name": "Radnaq"
+    },
+    {
+        "brand_id": 2386208,
+        "original_brand_name": "Sigma Tools",
+        "display_brand_name": "Sigma Tools"
+    },
+    {
+        "brand_id": 2386272,
+        "original_brand_name": "STELS",
+        "display_brand_name": "STELS"
+    },
+    {
+        "brand_id": 2386513,
+        "original_brand_name": "VONDER",
+        "display_brand_name": "VONDER"
+    },
+    {
+        "brand_id": 2386558,
+        "original_brand_name": "WORKER",
+        "display_brand_name": "WORKER"
+    },
+    {
+        "brand_id": 2386564,
+        "original_brand_name": "WWSoldas",
+        "display_brand_name": "WWSoldas"
+    },
+    {
+        "brand_id": 2413740,
+        "original_brand_name": "fiamon",
+        "display_brand_name": "fiamon"
+    },
+    {
+        "brand_id": 2414362,
+        "original_brand_name": "Chiaperini",
+        "display_brand_name": "Chiaperini"
+    },
+    {
+        "brand_id": 2423810,
+        "original_brand_name": "Cronomac",
+        "display_brand_name": "Cronomac"
+    },
+    {
+        "brand_id": 2425265,
+        "original_brand_name": "expex",
+        "display_brand_name": "expex"
+    },
+    {
+        "brand_id": 2425815,
+        "original_brand_name": "JFA Eletronicos",
+        "display_brand_name": "JFA Eletronicos"
+    },
+    {
+        "brand_id": 2433121,
+        "original_brand_name": "Goldentec",
+        "display_brand_name": "Goldentec"
+    },
+    {
+        "brand_id": 2467434,
+        "original_brand_name": "TNT",
+        "display_brand_name": "TNT"
+    },
+    {
+        "brand_id": 2467564,
+        "original_brand_name": "BMAX NOVO",
+        "display_brand_name": "BMAX NOVO"
+    },
+    {
+        "brand_id": 2467620,
+        "original_brand_name": "CARPARTES",
+        "display_brand_name": "CARPARTES"
+    },
+    {
+        "brand_id": 2473788,
+        "original_brand_name": "Aquatools",
+        "display_brand_name": "Aquatools"
+    },
+    {
+        "brand_id": 2483080,
+        "original_brand_name": "PERFECT PRO",
+        "display_brand_name": "PERFECT PRO"
+    },
+    {
+        "brand_id": 2492882,
+        "original_brand_name": "TC CHICOTES",
+        "display_brand_name": "TC CHICOTES"
+    },
+    {
+        "brand_id": 2496614,
+        "original_brand_name": "CAR 80",
+        "display_brand_name": "CAR 80"
+    },
+    {
+        "brand_id": 2497727,
+        "original_brand_name": "Hellermann Tyton",
+        "display_brand_name": "Hellermann Tyton"
+    },
+    {
+        "brand_id": 2501220,
+        "original_brand_name": "Euro Machine Ferramentas",
+        "display_brand_name": "Euro Machine Ferramentas"
+    },
+    {
+        "brand_id": 2509043,
+        "original_brand_name": "ESTAMPARIA PAULISTA",
+        "display_brand_name": "ESTAMPARIA PAULISTA"
+    },
+    {
+        "brand_id": 2526592,
+        "original_brand_name": "A Casa das Fontes",
+        "display_brand_name": "A Casa das Fontes"
+    },
+    {
+        "brand_id": 2567780,
+        "original_brand_name": "Kitest",
+        "display_brand_name": "Kitest"
+    },
+    {
+        "brand_id": 2573930,
+        "original_brand_name": "IDEA",
+        "display_brand_name": "IDEA"
+    },
+    {
+        "brand_id": 2592868,
+        "original_brand_name": "Radnaq Automotive",
+        "display_brand_name": "Radnaq Automotive"
+    },
+    {
+        "brand_id": 2601571,
+        "original_brand_name": "Lupus.",
+        "display_brand_name": "Lupus."
+    },
+    {
+        "brand_id": 2601649,
+        "original_brand_name": "ATHOSS FIOS E CABOS",
+        "display_brand_name": "ATHOSS FIOS E CABOS"
+    },
+    {
+        "brand_id": 2602347,
+        "original_brand_name": "Trafotron Transformadores",
+        "display_brand_name": "Trafotron Transformadores"
+    },
+    {
+        "brand_id": 2612871,
+        "original_brand_name": "12M",
+        "display_brand_name": "12M"
+    },
+    {
+        "brand_id": 2641934,
+        "original_brand_name": "Vulcanbor",
+        "display_brand_name": "Vulcanbor"
+    },
+    {
+        "brand_id": 2652722,
+        "original_brand_name": "FERPLUS FERRAMENTAS",
+        "display_brand_name": "FERPLUS FERRAMENTAS"
+    },
+    {
+        "brand_id": 2710547,
+        "original_brand_name": "Felar",
+        "display_brand_name": "Felar"
+    },
+    {
+        "brand_id": 2718583,
+        "original_brand_name": "Ouky",
+        "display_brand_name": "Ouky"
+    },
+    {
+        "brand_id": 2730419,
+        "original_brand_name": "BREMEN IMPORTADORA",
+        "display_brand_name": "BREMEN IMPORTADORA"
+    },
+    {
+        "brand_id": 2735819,
+        "original_brand_name": "MX STAR",
+        "display_brand_name": "MX STAR"
+    },
+    {
+        "brand_id": 2769729,
+        "original_brand_name": "Wurth",
+        "display_brand_name": "Wurth"
+    },
+    {
+        "brand_id": 2794319,
+        "original_brand_name": "CM POLIMENTO",
+        "display_brand_name": "CM POLIMENTO"
+    },
+    {
+        "brand_id": 2794637,
+        "original_brand_name": "Deiton",
+        "display_brand_name": "Deiton"
+    },
+    {
+        "brand_id": 2828663,
+        "original_brand_name": "COIBEU",
+        "display_brand_name": "COIBEU"
+    },
+    {
+        "brand_id": 2831482,
+        "original_brand_name": "Colina Shop",
+        "display_brand_name": "Colina Shop"
+    },
+    {
+        "brand_id": 2843576,
+        "original_brand_name": "Corneta",
+        "display_brand_name": "Corneta"
+    },
+    {
+        "brand_id": 2855772,
+        "original_brand_name": "Mundo Thata",
+        "display_brand_name": "Mundo Thata"
+    },
+    {
+        "brand_id": 2858638,
+        "original_brand_name": "Olho de gato",
+        "display_brand_name": "Olho de gato"
+    },
+    {
+        "brand_id": 2864673,
+        "original_brand_name": "ProAuto",
+        "display_brand_name": "ProAuto"
+    },
+    {
+        "brand_id": 2865033,
+        "original_brand_name": "Sparta",
+        "display_brand_name": "Sparta"
+    },
+    {
+        "brand_id": 2865286,
+        "original_brand_name": "vw bmw",
+        "display_brand_name": "vw bmw"
+    },
+    {
+        "brand_id": 2878927,
+        "original_brand_name": "LNG AUTOMOTIVE PARTS",
+        "display_brand_name": "LNG AUTOMOTIVE PARTS"
+    },
+    {
+        "brand_id": 2882122,
+        "original_brand_name": "LUBE FER",
+        "display_brand_name": "LUBE FER"
+    },
+    {
+        "brand_id": 2902508,
+        "original_brand_name": "Nova Digital",
+        "display_brand_name": "Nova Digital"
+    },
+    {
+        "brand_id": 2920528,
+        "original_brand_name": "zenite",
+        "display_brand_name": "zenite"
+    },
+    {
+        "brand_id": 2923750,
+        "original_brand_name": "Startools Ferramentas",
+        "display_brand_name": "Startools Ferramentas"
+    },
+    {
+        "brand_id": 2937116,
+        "original_brand_name": "OREGON",
+        "display_brand_name": "OREGON"
+    },
+    {
+        "brand_id": 2940313,
+        "original_brand_name": "SHARKBLUE",
+        "display_brand_name": "SHARKBLUE"
+    },
+    {
+        "brand_id": 2957289,
+        "original_brand_name": "Mapaseg",
+        "display_brand_name": "Mapaseg"
+    },
+    {
+        "brand_id": 3076790,
+        "original_brand_name": "Bremen",
+        "display_brand_name": "Bremen"
+    },
+    {
+        "brand_id": 3084125,
+        "original_brand_name": "CELPAN",
+        "display_brand_name": "CELPAN"
+    },
+    {
+        "brand_id": 3190386,
+        "original_brand_name": "Rotta 376",
+        "display_brand_name": "Rotta 376"
+    },
+    {
+        "brand_id": 3260570,
+        "original_brand_name": "Over Vision",
+        "display_brand_name": "Over Vision"
+    },
+    {
+        "brand_id": 3412773,
+        "original_brand_name": "Irb automotive",
+        "display_brand_name": "Irb automotive"
+    },
+    {
+        "brand_id": 3431557,
+        "original_brand_name": "Flach",
+        "display_brand_name": "Flach"
+    },
+    {
+        "brand_id": 3470281,
+        "original_brand_name": "Inova",
+        "display_brand_name": "Inova"
+    },
+    {
+        "brand_id": 3486262,
+        "original_brand_name": "MOPAR",
+        "display_brand_name": "MOPAR"
+    },
+    {
+        "brand_id": 3577077,
+        "original_brand_name": "Mercapide",
+        "display_brand_name": "Mercapide"
+    },
+    {
+        "brand_id": 3578340,
+        "original_brand_name": "Solarium",
+        "display_brand_name": "Solarium"
+    },
+    {
+        "brand_id": 3725819,
+        "original_brand_name": "Filtran Andorinha",
+        "display_brand_name": "Filtran Andorinha"
+    },
+    {
+        "brand_id": 3815529,
+        "original_brand_name": "Synthetic Lubrificantes Especiais",
+        "display_brand_name": "Synthetic Lubrificantes Especiais"
+    },
+    {
+        "brand_id": 3894601,
+        "original_brand_name": "Marpil Plásticos",
+        "display_brand_name": "Marpil Plásticos"
+    },
+    {
+        "brand_id": 3970655,
+        "original_brand_name": "Hutz",
+        "display_brand_name": "Hutz"
+    },
+    {
+        "brand_id": 4128190,
+        "original_brand_name": "TechOne",
+        "display_brand_name": "TechOne"
+    },
+    {
+        "brand_id": 4158774,
+        "original_brand_name": "Western",
+        "display_brand_name": "Western"
+    },
+    {
+        "brand_id": 4162653,
+        "original_brand_name": "Oi Vida",
+        "display_brand_name": "Oi Vida"
+    },
+    {
+        "brand_id": 4167649,
+        "original_brand_name": "BW Adesivos",
+        "display_brand_name": "BW Adesivos"
+    },
+    {
+        "brand_id": 4189437,
+        "original_brand_name": "Joog",
+        "display_brand_name": "Joog"
+    },
+    {
+        "brand_id": 4190794,
+        "original_brand_name": "BR Torq",
+        "display_brand_name": "BR Torq"
+    },
+    {
+        "brand_id": 4196525,
+        "original_brand_name": "SL7",
+        "display_brand_name": "SL7"
+    },
+    {
+        "brand_id": 4212643,
+        "original_brand_name": "Tecno Lubrificantes",
+        "display_brand_name": "Tecno Lubrificantes"
+    },
+    {
+        "brand_id": 4259136,
+        "original_brand_name": "Camura Online",
+        "display_brand_name": "Camura Online"
+    },
+    {
+        "brand_id": 4273613,
+        "original_brand_name": "SP Equipamentos Rodoviários",
+        "display_brand_name": "SP Equipamentos Rodoviários"
+    },
+    {
+        "brand_id": 4275568,
+        "original_brand_name": "Ejp Shopping Digital",
+        "display_brand_name": "Ejp Shopping Digital"
+    },
+    {
+        "brand_id": 4281681,
+        "original_brand_name": "Farecar",
+        "display_brand_name": "Farecar"
+    },
+    {
+        "brand_id": 4284032,
+        "original_brand_name": "Trato",
+        "display_brand_name": "Trato"
+    },
+    {
+        "brand_id": 4286656,
+        "original_brand_name": "Hidraflux",
+        "display_brand_name": "Hidraflux"
+    },
+    {
+        "brand_id": 4297672,
+        "original_brand_name": "Locatti",
+        "display_brand_name": "Locatti"
+    },
+    {
+        "brand_id": 1146757,
+        "original_brand_name": "Michelin",
+        "display_brand_name": "Michelin"
+    },
+    {
+        "brand_id": 1146780,
+        "original_brand_name": "Motul",
+        "display_brand_name": "motul"
+    },
+    {
+        "brand_id": 1802940,
+        "original_brand_name": "Yamaha",
+        "display_brand_name": "Yamaha"
+    },
+    {
+        "brand_id": 1964467,
+        "original_brand_name": "Automobiles Citroën",
+        "display_brand_name": "Automobiles Citroën"
+    },
+    {
+        "brand_id": 1964488,
+        "original_brand_name": "BBS",
+        "display_brand_name": "BBS"
+    },
+    {
+        "brand_id": 1964495,
+        "original_brand_name": "BERING",
+        "display_brand_name": "BERING"
+    },
+    {
+        "brand_id": 1964508,
+        "original_brand_name": "BMW",
+        "display_brand_name": "BMW"
+    },
+    {
+        "brand_id": 1964567,
+        "original_brand_name": "Bardahl",
+        "display_brand_name": "Bardahl"
+    },
+    {
+        "brand_id": 1964714,
+        "original_brand_name": "CAOA Chery",
+        "display_brand_name": "CAOA Chery"
+    },
+    {
+        "brand_id": 1964801,
+        "original_brand_name": "Chrysler",
+        "display_brand_name": "Chrysler"
+    },
+    {
+        "brand_id": 1964852,
+        "original_brand_name": "Control",
+        "display_brand_name": "Control"
+    },
+    {
+        "brand_id": 1964861,
+        "original_brand_name": "Corteco",
+        "display_brand_name": "Corteco"
+    },
+    {
+        "brand_id": 1965036,
+        "original_brand_name": "Ducati",
+        "display_brand_name": "Ducati"
+    },
+    {
+        "brand_id": 1965042,
+        "original_brand_name": "Dunlop",
+        "display_brand_name": "Dunlop"
+    },
+    {
+        "brand_id": 1965209,
+        "original_brand_name": "Fiat",
+        "display_brand_name": "Fiat"
+    },
+    {
+        "brand_id": 1965220,
+        "original_brand_name": "Firestone",
+        "display_brand_name": "Firestone"
+    },
+    {
+        "brand_id": 1965233,
+        "original_brand_name": "Fomoco",
+        "display_brand_name": "Fomoco"
+    },
+    {
+        "brand_id": 1965528,
+        "original_brand_name": "Hyundai",
+        "display_brand_name": "Hyundai"
+    },
+    {
+        "brand_id": 1965945,
+        "original_brand_name": "Little Trees",
+        "display_brand_name": "Little Trees"
+    },
+    {
+        "brand_id": 1966032,
+        "original_brand_name": "MG",
+        "display_brand_name": "MG"
+    },
+    {
+        "brand_id": 1966037,
+        "original_brand_name": "MIC",
+        "display_brand_name": "MIC"
+    },
+    {
+        "brand_id": 1966072,
+        "original_brand_name": "MV Agusta Motor",
+        "display_brand_name": "MV Agusta Motor"
+    },
+    {
+        "brand_id": 1966180,
+        "original_brand_name": "Mercedes-AMG",
+        "display_brand_name": "Mercedes-AMG"
+    },
+    {
+        "brand_id": 1966224,
+        "original_brand_name": "Mitsubishi Motors",
+        "display_brand_name": "Mitsubishi Motors"
+    },
+    {
+        "brand_id": 1966251,
+        "original_brand_name": "Mothers",
+        "display_brand_name": "Mothers"
+    },
+    {
+        "brand_id": 1966643,
+        "original_brand_name": "Porsche",
+        "display_brand_name": "Porsche"
+    },
+    {
+        "brand_id": 1966771,
+        "original_brand_name": "Renault",
+        "display_brand_name": "Renault"
+    },
+    {
+        "brand_id": 1966865,
+        "original_brand_name": "SCANIA",
+        "display_brand_name": "SCANIA"
+    },
+    {
+        "brand_id": 1966918,
+        "original_brand_name": "STIHL",
+        "display_brand_name": "STIHL"
+    },
+    {
+        "brand_id": 1966919,
+        "original_brand_name": "STP",
+        "display_brand_name": "STP"
+    },
+    {
+        "brand_id": 1967114,
+        "original_brand_name": "Subaru",
+        "display_brand_name": "Subaru"
+    },
+    {
+        "brand_id": 1967230,
+        "original_brand_name": "Tecnofix McGard Brasil",
+        "display_brand_name": "Tecnofix McGard Brasil"
+    },
+    {
+        "brand_id": 1967301,
+        "original_brand_name": "Tramontina",
+        "display_brand_name": "Tramontina"
+    },
+    {
+        "brand_id": 1967419,
+        "original_brand_name": "Viper",
+        "display_brand_name": "Viper"
+    },
+    {
+        "brand_id": 1967447,
+        "original_brand_name": "Vonixx",
+        "display_brand_name": "Vonixx"
+    },
+    {
+        "brand_id": 1967452,
+        "original_brand_name": "Vulcan",
+        "display_brand_name": "Vulcan"
+    },
+    {
+        "brand_id": 1967576,
+        "original_brand_name": "Ymax",
+        "display_brand_name": "Ymax"
+    },
+    {
+        "brand_id": 1967606,
+        "original_brand_name": "ZM",
+        "display_brand_name": "ZM"
+    },
+    {
+        "brand_id": 1968814,
+        "original_brand_name": "ABRO",
+        "display_brand_name": "ABRO"
+    },
+    {
+        "brand_id": 1969099,
+        "original_brand_name": "Husqvarna",
+        "display_brand_name": "Husqvarna"
+    },
+    {
+        "brand_id": 1969382,
+        "original_brand_name": "SCUD",
+        "display_brand_name": "SCUD"
+    },
+    {
+        "brand_id": 1969488,
+        "original_brand_name": "Thule",
+        "display_brand_name": "Thule"
+    },
+    {
+        "brand_id": 1969564,
+        "original_brand_name": "Wester",
+        "display_brand_name": "Wester"
+    },
+    {
+        "brand_id": 2384129,
+        "original_brand_name": "Calçados Alcalay",
+        "display_brand_name": "Calçados Alcalay"
+    },
+    {
+        "brand_id": 2384200,
+        "original_brand_name": "AOLIXIN",
+        "display_brand_name": "AOLIXIN"
+    },
+    {
+        "brand_id": 2384256,
+        "original_brand_name": "Authomix",
+        "display_brand_name": "Authomix"
+    },
+    {
+        "brand_id": 2384257,
+        "original_brand_name": "Auto Quality",
+        "display_brand_name": "Auto Quality"
+    },
+    {
+        "brand_id": 2384263,
+        "original_brand_name": "AutoPlast",
+        "display_brand_name": "AutoPlast"
+    },
+    {
+        "brand_id": 2384342,
+        "original_brand_name": "Bestfer",
+        "display_brand_name": "Bestfer"
+    },
+    {
+        "brand_id": 2384367,
+        "original_brand_name": "Blawer",
+        "display_brand_name": "Blawer"
+    },
+    {
+        "brand_id": 2384379,
+        "original_brand_name": "BMS RACING",
+        "display_brand_name": "BMS RACING"
+    },
+    {
+        "brand_id": 2384408,
+        "original_brand_name": "BR Parts",
+        "display_brand_name": "BR Parts"
+    },
+    {
+        "brand_id": 2384503,
+        "original_brand_name": "CATIMOTO",
+        "display_brand_name": "CATIMOTO"
+    },
+    {
+        "brand_id": 2384520,
+        "original_brand_name": "Centralsul",
+        "display_brand_name": "Centralsul"
+    },
+    {
+        "brand_id": 2384545,
+        "original_brand_name": "CINOY",
+        "display_brand_name": "CINOY"
+    },
+    {
+        "brand_id": 2384840,
+        "original_brand_name": "Elitte Motors",
+        "display_brand_name": "Elitte Motors"
+    },
+    {
+        "brand_id": 2384847,
+        "original_brand_name": "Embus illion",
+        "display_brand_name": "Embus illion"
+    },
+    {
+        "brand_id": 2384890,
+        "original_brand_name": "Fabreck",
+        "display_brand_name": "Fabreck"
+    },
+    {
+        "brand_id": 2384922,
+        "original_brand_name": "Fertak Tools",
+        "display_brand_name": "Fertak Tools"
+    },
+    {
+        "brand_id": 2384971,
+        "original_brand_name": "FORTLUZ",
+        "display_brand_name": "FORTLUZ"
+    },
+    {
+        "brand_id": 2385111,
+        "original_brand_name": "Hipper Freios",
+        "display_brand_name": "Hipper Freios"
+    },
+    {
+        "brand_id": 2385160,
+        "original_brand_name": "IMPORTWAY",
+        "display_brand_name": "IMPORTWAY"
+    },
+    {
+        "brand_id": 2385161,
+        "original_brand_name": "Imprimax",
+        "display_brand_name": "Imprimax"
+    },
+    {
+        "brand_id": 2385210,
+        "original_brand_name": "JAHU",
+        "display_brand_name": "JAHU"
+    },
+    {
+        "brand_id": 2385321,
+        "original_brand_name": "Koube",
+        "display_brand_name": "Koube"
+    },
+    {
+        "brand_id": 2385375,
+        "original_brand_name": "Levorin",
+        "display_brand_name": "Levorin"
+    },
+    {
+        "brand_id": 2385411,
+        "original_brand_name": "Lotse",
+        "display_brand_name": "Lotse"
+    },
+    {
+        "brand_id": 2385464,
+        "original_brand_name": "Maggion",
+        "display_brand_name": "Maggion"
+    },
+    {
+        "brand_id": 2385556,
+        "original_brand_name": "Maxx Premium",
+        "display_brand_name": "Maxx Premium"
+    },
+    {
+        "brand_id": 2385908,
+        "original_brand_name": "Pirelli",
+        "display_brand_name": "Pirelli"
+    },
+    {
+        "brand_id": 2385961,
+        "original_brand_name": "P?sitron",
+        "display_brand_name": "P?sitron"
+    },
+    {
+        "brand_id": 2385966,
+        "original_brand_name": "Pradolux",
+        "display_brand_name": "Pradolux"
+    },
+    {
+        "brand_id": 2385986,
+        "original_brand_name": "Pro Tork",
+        "display_brand_name": "Pro Tork"
+    },
+    {
+        "brand_id": 2385991,
+        "original_brand_name": "Procton",
+        "display_brand_name": "Procton"
+    },
+    {
+        "brand_id": 2385997,
+        "original_brand_name": "PROTELIM",
+        "display_brand_name": "PROTELIM"
+    },
+    {
+        "brand_id": 2386096,
+        "original_brand_name": "Rolt do Brasil",
+        "display_brand_name": "Rolt do Brasil"
+    },
+    {
+        "brand_id": 2386135,
+        "original_brand_name": "Sanfil",
+        "display_brand_name": "Sanfil"
+    },
+    {
+        "brand_id": 2386154,
+        "original_brand_name": "Scapjá Escapamentos",
+        "display_brand_name": "Scapjá Escapamentos"
+    },
+    {
+        "brand_id": 2386157,
+        "original_brand_name": "Schulz Compressores",
+        "display_brand_name": "Schulz Compressores"
+    },
+    {
+        "brand_id": 2386194,
+        "original_brand_name": "Shekparts",
+        "display_brand_name": "Shekparts"
+    },
+    {
+        "brand_id": 2386196,
+        "original_brand_name": "Sherwin-Williams",
+        "display_brand_name": "Sherwin-Williams"
+    },
+    {
+        "brand_id": 2386208,
+        "original_brand_name": "Sigma Tools",
+        "display_brand_name": "Sigma Tools"
+    },
+    {
+        "brand_id": 2386272,
+        "original_brand_name": "STELS",
+        "display_brand_name": "STELS"
+    },
+    {
+        "brand_id": 2386273,
+        "original_brand_name": "Sterk",
+        "display_brand_name": "Sterk"
+    },
+    {
+        "brand_id": 2386343,
+        "original_brand_name": "Technic",
+        "display_brand_name": "Technic"
+    },
+    {
+        "brand_id": 2386347,
+        "original_brand_name": "Tekbond",
+        "display_brand_name": "Tekbond"
+    },
+    {
+        "brand_id": 2386379,
+        "original_brand_name": "Tmac",
+        "display_brand_name": "Tmac"
+    },
+    {
+        "brand_id": 2386450,
+        "original_brand_name": "VALFLEX",
+        "display_brand_name": "VALFLEX"
+    },
+    {
+        "brand_id": 2386455,
+        "original_brand_name": "Vedamotors",
+        "display_brand_name": "Vedamotors"
+    },
+    {
+        "brand_id": 2386489,
+        "original_brand_name": "Vipal Borrachas",
+        "display_brand_name": "Vipal Borrachas"
+    },
+    {
+        "brand_id": 2386513,
+        "original_brand_name": "VONDER",
+        "display_brand_name": "VONDER"
+    },
+    {
+        "brand_id": 2386531,
+        "original_brand_name": "WEG",
+        "display_brand_name": "WEG"
+    },
+    {
+        "brand_id": 2413239,
+        "original_brand_name": "multilaser",
+        "display_brand_name": "multilaser"
+    },
+    {
+        "brand_id": 2413525,
+        "original_brand_name": "vila brasil",
+        "display_brand_name": "vila brasil"
+    },
+    {
+        "brand_id": 2413547,
+        "original_brand_name": "uv-block",
+        "display_brand_name": "uv-block"
+    },
+    {
+        "brand_id": 2413621,
+        "original_brand_name": "GM",
+        "display_brand_name": "GM"
+    },
+    {
+        "brand_id": 2413634,
+        "original_brand_name": "emblemax",
+        "display_brand_name": "emblemax"
+    },
+    {
+        "brand_id": 2413656,
+        "original_brand_name": "bzm",
+        "display_brand_name": "bzm"
+    },
+    {
+        "brand_id": 2413783,
+        "original_brand_name": "impomaster",
+        "display_brand_name": "impomaster"
+    },
+    {
+        "brand_id": 2413987,
+        "original_brand_name": "firebreq",
+        "display_brand_name": "firebreq"
+    },
+    {
+        "brand_id": 1146757,
+        "original_brand_name": "Michelin",
+        "display_brand_name": "Michelin"
+    },
+    {
+        "brand_id": 1146780,
+        "original_brand_name": "Motul",
+        "display_brand_name": "motul"
+    },
+    {
+        "brand_id": 1802940,
+        "original_brand_name": "Yamaha",
+        "display_brand_name": "Yamaha"
+    },
+    {
+        "brand_id": 1964508,
+        "original_brand_name": "BMW",
+        "display_brand_name": "BMW"
+    },
+    {
+        "brand_id": 1965042,
+        "original_brand_name": "Dunlop",
+        "display_brand_name": "Dunlop"
+    },
+    {
+        "brand_id": 1965209,
+        "original_brand_name": "Fiat",
+        "display_brand_name": "Fiat"
+    },
+    {
+        "brand_id": 1966801,
+        "original_brand_name": "Roadstar",
+        "display_brand_name": "Roadstar"
+    },
+    {
+        "brand_id": 1966865,
+        "original_brand_name": "SCANIA",
+        "display_brand_name": "SCANIA"
+    },
+    {
+        "brand_id": 1967077,
+        "original_brand_name": "Spicer",
+        "display_brand_name": "Spicer"
+    },
+    {
+        "brand_id": 1967419,
+        "original_brand_name": "Viper",
+        "display_brand_name": "Viper"
+    },
+    {
+        "brand_id": 1967606,
+        "original_brand_name": "ZM",
+        "display_brand_name": "ZM"
+    },
+    {
+        "brand_id": 1969382,
+        "original_brand_name": "SCUD",
+        "display_brand_name": "SCUD"
+    },
+    {
+        "brand_id": 2384410,
+        "original_brand_name": "BRC",
+        "display_brand_name": "BRC"
+    },
+    {
+        "brand_id": 2384503,
+        "original_brand_name": "CATIMOTO",
+        "display_brand_name": "CATIMOTO"
+    },
+    {
+        "brand_id": 2384890,
+        "original_brand_name": "Fabreck",
+        "display_brand_name": "Fabreck"
+    },
+    {
+        "brand_id": 2384922,
+        "original_brand_name": "Fertak Tools",
+        "display_brand_name": "Fertak Tools"
+    },
+    {
+        "brand_id": 2385160,
+        "original_brand_name": "IMPORTWAY",
+        "display_brand_name": "IMPORTWAY"
+    },
+    {
+        "brand_id": 2385464,
+        "original_brand_name": "Maggion",
+        "display_brand_name": "Maggion"
+    },
+    {
+        "brand_id": 2385908,
+        "original_brand_name": "Pirelli",
+        "display_brand_name": "Pirelli"
+    },
+    {
+        "brand_id": 2385986,
+        "original_brand_name": "Pro Tork",
+        "display_brand_name": "Pro Tork"
+    },
+    {
+        "brand_id": 2386513,
+        "original_brand_name": "VONDER",
+        "display_brand_name": "VONDER"
+    },
+    {
+        "brand_id": 2413621,
+        "original_brand_name": "GM",
+        "display_brand_name": "GM"
+    },
+    {
+        "brand_id": 2413656,
+        "original_brand_name": "bzm",
+        "display_brand_name": "bzm"
+    },
+    {
+        "brand_id": 2413987,
+        "original_brand_name": "firebreq",
+        "display_brand_name": "firebreq"
+    },
+    {
+        "brand_id": 2414217,
+        "original_brand_name": "delinte",
+        "display_brand_name": "delinte"
+    },
+    {
+        "brand_id": 2423360,
+        "original_brand_name": "Vortex",
+        "display_brand_name": "Vortex"
+    },
+    {
+        "brand_id": 2430281,
+        "original_brand_name": "Universal Automotive",
+        "display_brand_name": "Universal Automotive"
+    },
+    {
+        "brand_id": 2433586,
+        "original_brand_name": "DT NACIONAIS & IMPORTADOS",
+        "display_brand_name": "DT NACIONAIS & IMPORTADOS"
+    },
+    {
+        "brand_id": 2434621,
+        "original_brand_name": "Brandy",
+        "display_brand_name": "Brandy"
+    },
+    {
+        "brand_id": 2443475,
+        "original_brand_name": "Etaniz",
+        "display_brand_name": "Etaniz"
+    },
+    {
+        "brand_id": 2449624,
+        "original_brand_name": "KRMAI",
+        "display_brand_name": "KRMAI"
+    },
+    {
+        "brand_id": 2460160,
+        "original_brand_name": "Autoamérica",
+        "display_brand_name": "Autoamérica"
+    },
+    {
+        "brand_id": 2467434,
+        "original_brand_name": "TNT",
+        "display_brand_name": "TNT"
+    },
+    {
+        "brand_id": 2469542,
+        "original_brand_name": "USUAL BRINQUEDOS",
+        "display_brand_name": "USUAL BRINQUEDOS"
+    },
+    {
+        "brand_id": 2496614,
+        "original_brand_name": "CAR 80",
+        "display_brand_name": "CAR 80"
+    },
+    {
+        "brand_id": 2506418,
+        "original_brand_name": "Famastil",
+        "display_brand_name": "Famastil"
+    },
+    {
+        "brand_id": 2512107,
+        "original_brand_name": "Grid",
+        "display_brand_name": "Grid"
+    },
+    {
+        "brand_id": 2540959,
+        "original_brand_name": "XBRI",
+        "display_brand_name": "XBRI"
+    },
+    {
+        "brand_id": 2641934,
+        "original_brand_name": "Vulcanbor",
+        "display_brand_name": "Vulcanbor"
+    },
+    {
+        "brand_id": 2642368,
+        "original_brand_name": "Canello",
+        "display_brand_name": "Canello"
+    },
+    {
+        "brand_id": 2652787,
+        "original_brand_name": "DT IMPORTS",
+        "display_brand_name": "DT IMPORTS"
+    },
+    {
+        "brand_id": 2668658,
+        "original_brand_name": "Cinborg Pneus",
+        "display_brand_name": "Cinborg Pneus"
+    },
+    {
+        "brand_id": 2700243,
+        "original_brand_name": "Cromax Acessórios",
+        "display_brand_name": "Cromax Acessórios"
+    },
+    {
+        "brand_id": 2725738,
+        "original_brand_name": "Viemar",
+        "display_brand_name": "Viemar"
+    },
+    {
+        "brand_id": 2749949,
+        "original_brand_name": "VIPAL",
+        "display_brand_name": "VIPAL"
+    },
+    {
+        "brand_id": 2757931,
+        "original_brand_name": "Sq Só Qualidade",
+        "display_brand_name": "Sq Só Qualidade"
+    },
+    {
+        "brand_id": 2764487,
+        "original_brand_name": "startools",
+        "display_brand_name": "startools"
+    },
+    {
+        "brand_id": 2840623,
+        "original_brand_name": "Rodabras",
+        "display_brand_name": "Rodabras"
+    },
+    {
+        "brand_id": 2867396,
+        "original_brand_name": "SMART FOX",
+        "display_brand_name": "SMART FOX"
+    },
+    {
+        "brand_id": 3190386,
+        "original_brand_name": "Rotta 376",
+        "display_brand_name": "Rotta 376"
+    },
+    {
+        "brand_id": 3253984,
+        "original_brand_name": "IMPORTADO",
+        "display_brand_name": "IMPORTADO"
+    },
+    {
+        "brand_id": 3260060,
+        "original_brand_name": "Michigan Pneus",
+        "display_brand_name": "Michigan Pneus"
+    },
+    {
+        "brand_id": 3486262,
+        "original_brand_name": "MOPAR",
+        "display_brand_name": "MOPAR"
+    },
+    {
+        "brand_id": 3499739,
+        "original_brand_name": "Magnum tires",
+        "display_brand_name": "Magnum tires"
+    },
+    {
+        "brand_id": 3559466,
+        "original_brand_name": "DRIVETEC",
+        "display_brand_name": "DRIVETEC"
+    },
+    {
+        "brand_id": 3792587,
+        "original_brand_name": "Resfriar",
+        "display_brand_name": "Resfriar"
+    },
+    {
+        "brand_id": 3839831,
+        "original_brand_name": "Cx3 Acessórios",
+        "display_brand_name": "Cx3 Acessórios"
+    },
+    {
+        "brand_id": 3998951,
+        "original_brand_name": "Auto-Top Imports",
+        "display_brand_name": "Auto-Top Imports"
+    },
+    {
+        "brand_id": 4038336,
+        "original_brand_name": "SpeedMax",
+        "display_brand_name": "SpeedMax"
+    },
+    {
+        "brand_id": 4039085,
+        "original_brand_name": "Italspeed automotive LTDA",
+        "display_brand_name": "Italspeed automotive LTDA"
+    },
+    {
+        "brand_id": 4144076,
+        "original_brand_name": "Oxroad",
+        "display_brand_name": "Oxroad"
+    },
+    {
+        "brand_id": 4158774,
+        "original_brand_name": "Western",
+        "display_brand_name": "Western"
+    },
+    {
+        "brand_id": 4267947,
+        "original_brand_name": "Delphi",
+        "display_brand_name": "Delphi"
+    },
+    {
+        "brand_id": 4270601,
+        "original_brand_name": "MR Discos",
+        "display_brand_name": "MR Discos"
+    },
+    {
+        "brand_id": 4281681,
+        "original_brand_name": "Farecar",
+        "display_brand_name": "Farecar"
+    },
+    {
+        "brand_id": 4281722,
+        "original_brand_name": "TOP-AR",
+        "display_brand_name": "TOP-AR"
+    },
+    {
+        "brand_id": 4297672,
+        "original_brand_name": "Locatti",
+        "display_brand_name": "Locatti"
+    },
+    {
+        "brand_id": 4306323,
+        "original_brand_name": "GRAPKS",
+        "display_brand_name": "GRAPKS"
+    },
+    {
+        "brand_id": 4330617,
+        "original_brand_name": "Ameriparts Automotive",
+        "display_brand_name": "Ameriparts Automotive"
+    },
+    {
+        "brand_id": 4331510,
+        "original_brand_name": "FBG Tools",
+        "display_brand_name": "FBG Tools"
+    },
+    {
+        "brand_id": 4344871,
+        "original_brand_name": "Buffalo",
+        "display_brand_name": "Buffalo"
+    },
+    {
+        "brand_id": 4358645,
+        "original_brand_name": "Araujo Gouveia Ferramentas",
+        "display_brand_name": "Araujo Gouveia Ferramentas"
+    },
+    {
+        "brand_id": 4361947,
+        "original_brand_name": "Marshal",
+        "display_brand_name": "Marshal"
+    },
+    {
+        "brand_id": 4384482,
+        "original_brand_name": "Huoshan",
+        "display_brand_name": "Huoshan"
+    },
+    {
+        "brand_id": 4391078,
+        "original_brand_name": "Attack Moto Parts",
+        "display_brand_name": "Attack Moto Parts"
+    },
+    {
+        "brand_id": 4398163,
+        "original_brand_name": "Silicamp",
+        "display_brand_name": "Silicamp"
+    },
+    {
+        "brand_id": 4428643,
+        "original_brand_name": "Troya Tools",
+        "display_brand_name": "Troya Tools"
+    },
+    {
+        "brand_id": 4437571,
+        "original_brand_name": "Famit",
+        "display_brand_name": "Famit"
+    },
+    {
+        "brand_id": 4468457,
+        "original_brand_name": "Cesari Pneus",
+        "display_brand_name": "Cesari Pneus"
+    },
+    {
+        "brand_id": 4491627,
+        "original_brand_name": "Power Max Tyre",
+        "display_brand_name": "Power Max Tyre"
+    },
+    {
+        "brand_id": 4504137,
+        "original_brand_name": "Leander Store",
+        "display_brand_name": "Leander Store"
+    },
+    {
+        "brand_id": 4668730,
+        "original_brand_name": "JVS Hose",
+        "display_brand_name": "JVS Hose"
+    },
+    {
+        "brand_id": 4696390,
+        "original_brand_name": "Fennix Sports",
+        "display_brand_name": "Fennix Sports"
+    },
+    {
+        "brand_id": 4718802,
+        "original_brand_name": "Solidez Moto Parts",
+        "display_brand_name": "Solidez Moto Parts"
+    },
+    {
+        "brand_id": 4729418,
+        "original_brand_name": "Alpha Moto Parts",
+        "display_brand_name": "Alpha Moto Parts"
+    },
+    {
+        "brand_id": 4749641,
+        "original_brand_name": "DM Auto Center",
+        "display_brand_name": "DM Auto Center"
+    },
+    {
+        "brand_id": 4756867,
+        "original_brand_name": "Uskianda",
+        "display_brand_name": "Uskianda"
+    },
+    {
+        "brand_id": 4763964,
+        "original_brand_name": "Dewostone",
+        "display_brand_name": "Dewostone"
+    },
+    {
+        "brand_id": 4766858,
+        "original_brand_name": "Double King",
+        "display_brand_name": "Double King"
+    },
+    {
+        "brand_id": 4774023,
+        "original_brand_name": "GOODYEAR DO BRASIL",
+        "display_brand_name": "GOODYEAR DO BRASIL"
+    },
+    {
+        "brand_id": 4774520,
+        "original_brand_name": "Alfamotors",
+        "display_brand_name": "Alfamotors"
+    },
+    {
+        "brand_id": 4774576,
+        "original_brand_name": "HONDA",
+        "display_brand_name": "HONDA"
+    },
+    {
+        "brand_id": 4782923,
+        "original_brand_name": "Unibreq Moto Peças",
+        "display_brand_name": "Unibreq Moto Peças"
+    },
+    {
+        "brand_id": 4785570,
+        "original_brand_name": "Roma",
+        "display_brand_name": "Roma"
+    },
+    {
+        "brand_id": 4785674,
+        "original_brand_name": "PMB - Pneus Mais Baratos",
+        "display_brand_name": "PMB - Pneus Mais Baratos"
+    },
+    {
+        "brand_id": 4786024,
+        "original_brand_name": "Aplus",
+        "display_brand_name": "Aplus"
+    },
+    {
+        "brand_id": 4796790,
+        "original_brand_name": "Ironhead Tires",
+        "display_brand_name": "Ironhead Tires"
+    },
+    {
+        "brand_id": 4806309,
+        "original_brand_name": "LC Variedades",
+        "display_brand_name": "LC Variedades"
+    },
+    {
+        "brand_id": 4819965,
+        "original_brand_name": "Unifort LTDA",
+        "display_brand_name": "Unifort LTDA"
+    },
+    {
+        "brand_id": 4831803,
+        "original_brand_name": "Mattos Pneus",
+        "display_brand_name": "Mattos Pneus"
+    },
+    {
+        "brand_id": 1146757,
+        "original_brand_name": "Michelin",
+        "display_brand_name": "Michelin"
+    },
+    {
+        "brand_id": 1146780,
+        "original_brand_name": "Motul",
+        "display_brand_name": "motul"
+    },
+    {
+        "brand_id": 1802940,
+        "original_brand_name": "Yamaha",
+        "display_brand_name": "Yamaha"
+    },
+    {
+        "brand_id": 1964361,
+        "original_brand_name": "Absolute",
+        "display_brand_name": "Absolute"
+    },
+    {
+        "brand_id": 1964488,
+        "original_brand_name": "BBS",
+        "display_brand_name": "BBS"
+    },
+    {
+        "brand_id": 1964503,
+        "original_brand_name": "BKB",
+        "display_brand_name": "BKB"
+    },
+    {
+        "brand_id": 1964508,
+        "original_brand_name": "BMW",
+        "display_brand_name": "BMW"
+    },
+    {
+        "brand_id": 1964852,
+        "original_brand_name": "Control",
+        "display_brand_name": "Control"
+    },
+    {
+        "brand_id": 1964861,
+        "original_brand_name": "Corteco",
+        "display_brand_name": "Corteco"
+    },
+    {
+        "brand_id": 1964883,
+        "original_brand_name": "D.I.D",
+        "display_brand_name": "D.I.D"
+    },
+    {
+        "brand_id": 1964907,
+        "original_brand_name": "DKW",
+        "display_brand_name": "DKW"
+    },
+    {
+        "brand_id": 1965036,
+        "original_brand_name": "Ducati",
+        "display_brand_name": "Ducati"
+    },
+    {
+        "brand_id": 1965042,
+        "original_brand_name": "Dunlop",
+        "display_brand_name": "Dunlop"
+    },
+    {
+        "brand_id": 1965176,
+        "original_brand_name": "FLM",
+        "display_brand_name": "FLM"
+    },
+    {
+        "brand_id": 1965183,
+        "original_brand_name": "FMF",
+        "display_brand_name": "FMF"
+    },
+    {
+        "brand_id": 1965209,
+        "original_brand_name": "Fiat",
+        "display_brand_name": "Fiat"
+    },
+    {
+        "brand_id": 1965220,
+        "original_brand_name": "Firestone",
+        "display_brand_name": "Firestone"
+    },
+    {
+        "brand_id": 1965280,
+        "original_brand_name": "GBRacing",
+        "display_brand_name": "GBRacing"
+    },
+    {
+        "brand_id": 1965449,
+        "original_brand_name": "Hankook",
+        "display_brand_name": "Hankook"
+    },
+    {
+        "brand_id": 1965528,
+        "original_brand_name": "Hyundai",
+        "display_brand_name": "Hyundai"
+    },
+    {
+        "brand_id": 1965590,
+        "original_brand_name": "JAFRA",
+        "display_brand_name": "JAFRA"
+    },
+    {
+        "brand_id": 1965896,
+        "original_brand_name": "Lawson Products",
+        "display_brand_name": "Lawson Products"
+    },
+    {
+        "brand_id": 1965977,
+        "original_brand_name": "Lotus Cars",
+        "display_brand_name": "Lotus Cars"
+    },
+    {
+        "brand_id": 1966066,
+        "original_brand_name": "MTF",
+        "display_brand_name": "MTF"
+    },
+    {
+        "brand_id": 1966072,
+        "original_brand_name": "MV Agusta Motor",
+        "display_brand_name": "MV Agusta Motor"
+    },
+    {
+        "brand_id": 1966147,
+        "original_brand_name": "MaxPro",
+        "display_brand_name": "MaxPro"
+    },
+    {
+        "brand_id": 1966196,
+        "original_brand_name": "Metzeler",
+        "display_brand_name": "Metzeler"
+    },
+    {
+        "brand_id": 1966315,
+        "original_brand_name": "NACHI",
+        "display_brand_name": "NACHI"
+    },
+    {
+        "brand_id": 1966743,
+        "original_brand_name": "RacingBros",
+        "display_brand_name": "RacingBros"
+    },
+    {
+        "brand_id": 1966753,
+        "original_brand_name": "Raven",
+        "display_brand_name": "Raven"
+    },
+    {
+        "brand_id": 1966916,
+        "original_brand_name": "STARKE AUTOMOTIVE",
+        "display_brand_name": "STARKE AUTOMOTIVE"
+    },
+    {
+        "brand_id": 1967419,
+        "original_brand_name": "Viper",
+        "display_brand_name": "Viper"
+    },
+    {
+        "brand_id": 1967447,
+        "original_brand_name": "Vonixx",
+        "display_brand_name": "Vonixx"
+    },
+    {
+        "brand_id": 1967452,
+        "original_brand_name": "Vulcan",
+        "display_brand_name": "Vulcan"
+    },
+    {
+        "brand_id": 1967606,
+        "original_brand_name": "ZM",
+        "display_brand_name": "ZM"
+    },
+    {
+        "brand_id": 1968971,
+        "original_brand_name": "Club Monaco",
+        "display_brand_name": "Club Monaco"
+    },
+    {
+        "brand_id": 1969064,
+        "original_brand_name": "Gates",
+        "display_brand_name": "Gates"
+    },
+    {
+        "brand_id": 1969099,
+        "original_brand_name": "Husqvarna",
+        "display_brand_name": "Husqvarna"
+    },
+    {
+        "brand_id": 1969382,
+        "original_brand_name": "SCUD",
+        "display_brand_name": "SCUD"
+    },
+    {
+        "brand_id": 1969453,
+        "original_brand_name": "Sun",
+        "display_brand_name": "Sun"
+    },
+    {
+        "brand_id": 1969564,
+        "original_brand_name": "Wester",
+        "display_brand_name": "Wester"
+    },
+    {
+        "brand_id": 2384076,
+        "original_brand_name": "3-RHO",
+        "display_brand_name": "3-RHO"
+    },
+    {
+        "brand_id": 2384139,
+        "original_brand_name": "Algoo PowerSports",
+        "display_brand_name": "Algoo PowerSports"
+    },
+    {
+        "brand_id": 2384142,
+        "original_brand_name": "All Balls",
+        "display_brand_name": "All Balls"
+    },
+    {
+        "brand_id": 2384200,
+        "original_brand_name": "AOLIXIN",
+        "display_brand_name": "AOLIXIN"
+    },
+    {
+        "brand_id": 2384256,
+        "original_brand_name": "Authomix",
+        "display_brand_name": "Authomix"
+    },
+    {
+        "brand_id": 2384257,
+        "original_brand_name": "Auto Quality",
+        "display_brand_name": "Auto Quality"
+    },
+    {
+        "brand_id": 2384262,
+        "original_brand_name": "Automotive Imports",
+        "display_brand_name": "Automotive Imports"
+    },
+    {
+        "brand_id": 2384263,
+        "original_brand_name": "AutoPlast",
+        "display_brand_name": "AutoPlast"
+    },
+    {
+        "brand_id": 2384379,
+        "original_brand_name": "BMS RACING",
+        "display_brand_name": "BMS RACING"
+    },
+    {
+        "brand_id": 2384408,
+        "original_brand_name": "BR Parts",
+        "display_brand_name": "BR Parts"
+    },
+    {
+        "brand_id": 2384503,
+        "original_brand_name": "CATIMOTO",
+        "display_brand_name": "CATIMOTO"
+    },
+    {
+        "brand_id": 2384526,
+        "original_brand_name": "CHAPAM",
+        "display_brand_name": "CHAPAM"
+    },
+    {
+        "brand_id": 2384547,
+        "original_brand_name": "CIRCUIT",
+        "display_brand_name": "CIRCUIT"
+    },
+    {
+        "brand_id": 2384565,
+        "original_brand_name": "Cobreq",
+        "display_brand_name": "Cobreq"
+    },
+    {
+        "brand_id": 2384569,
+        "original_brand_name": "Cofap",
+        "display_brand_name": "Cofap"
+    },
+    {
+        "brand_id": 2384847,
+        "original_brand_name": "Embus illion",
+        "display_brand_name": "Embus illion"
+    },
+    {
+        "brand_id": 2384890,
+        "original_brand_name": "Fabreck",
+        "display_brand_name": "Fabreck"
+    },
+    {
+        "brand_id": 2384920,
+        "original_brand_name": "Metalúrgica Fercar",
+        "display_brand_name": "Metalúrgica Fercar"
+    },
+    {
+        "brand_id": 2384992,
+        "original_brand_name": "G Componentes",
+        "display_brand_name": "G Componentes"
+    },
+    {
+        "brand_id": 2385044,
+        "original_brand_name": "Grampola",
+        "display_brand_name": "Grampola"
+    },
+    {
+        "brand_id": 2385099,
+        "original_brand_name": "Helt",
+        "display_brand_name": "Helt"
+    },
+    {
+        "brand_id": 2385111,
+        "original_brand_name": "Hipper Freios",
+        "display_brand_name": "Hipper Freios"
+    },
+    {
+        "brand_id": 2385160,
+        "original_brand_name": "IMPORTWAY",
+        "display_brand_name": "IMPORTWAY"
+    },
+    {
+        "brand_id": 2385161,
+        "original_brand_name": "Imprimax",
+        "display_brand_name": "Imprimax"
+    },
+    {
+        "brand_id": 2385209,
+        "original_brand_name": "Jacto",
+        "display_brand_name": "Jacto"
+    },
+    {
+        "brand_id": 2385232,
+        "original_brand_name": "JOJAFER",
+        "display_brand_name": "JOJAFER"
+    },
+    {
+        "brand_id": 2385244,
+        "original_brand_name": "Laquila",
+        "display_brand_name": "Laquila"
+    },
+    {
+        "brand_id": 2385266,
+        "original_brand_name": "Kasinski",
+        "display_brand_name": "Kasinski"
+    },
+    {
+        "brand_id": 2385375,
+        "original_brand_name": "Levorin",
+        "display_brand_name": "Levorin"
+    },
+    {
+        "brand_id": 2385464,
+        "original_brand_name": "Maggion",
+        "display_brand_name": "Maggion"
+    },
+    {
+        "brand_id": 2385471,
+        "original_brand_name": "Magnetron",
+        "display_brand_name": "Magnetron"
+    },
+    {
+        "brand_id": 2385556,
+        "original_brand_name": "Maxx Premium",
+        "display_brand_name": "Maxx Premium"
+    },
+    {
+        "brand_id": 2385748,
+        "original_brand_name": "Nove 54",
+        "display_brand_name": "Nove 54"
+    },
+    {
+        "brand_id": 2385798,
+        "original_brand_name": "OriginALLparts",
+        "display_brand_name": "OriginALLparts"
+    },
+    {
+        "brand_id": 2385908,
+        "original_brand_name": "Pirelli",
+        "display_brand_name": "Pirelli"
+    },
+    {
+        "brand_id": 2385922,
+        "original_brand_name": "Plasmoto Indústria E Comércio",
+        "display_brand_name": "Plasmoto Indústria E Comércio"
+    },
+    {
+        "brand_id": 2385986,
+        "original_brand_name": "Pro Tork",
+        "display_brand_name": "Pro Tork"
+    },
+    {
+        "brand_id": 2385991,
+        "original_brand_name": "Procton",
+        "display_brand_name": "Procton"
+    },
+    {
+        "brand_id": 2386080,
+        "original_brand_name": "Riffel",
+        "display_brand_name": "Riffel"
+    },
+    {
+        "brand_id": 2386097,
+        "original_brand_name": "Roma Brinquedos",
+        "display_brand_name": "Roma Brinquedos"
+    },
+    {
+        "brand_id": 2386109,
+        "original_brand_name": "R.R.L Imports",
+        "display_brand_name": "R.R.L Imports"
+    },
+    {
+        "brand_id": 2386135,
+        "original_brand_name": "Sanfil",
+        "display_brand_name": "Sanfil"
+    },
+    {
+        "brand_id": 2386192,
+        "original_brand_name": "SHALOMCAR",
+        "display_brand_name": "SHALOMCAR"
+    },
+    {
+        "brand_id": 2386198,
+        "original_brand_name": "Shineray",
+        "display_brand_name": "Shineray"
+    },
+    {
+        "brand_id": 2386259,
+        "original_brand_name": "Sportive",
+        "display_brand_name": "Sportive"
+    },
+    {
+        "brand_id": 2386268,
+        "original_brand_name": "START RACING",
+        "display_brand_name": "START RACING"
+    },
+    {
+        "brand_id": 2386343,
+        "original_brand_name": "Technic",
+        "display_brand_name": "Technic"
+    },
+    {
+        "brand_id": 2386369,
+        "original_brand_name": "Tiger Auto",
+        "display_brand_name": "Tiger Auto"
+    },
+    {
+        "brand_id": 2386379,
+        "original_brand_name": "Tmac",
+        "display_brand_name": "Tmac"
+    },
+    {
+        "brand_id": 2386450,
+        "original_brand_name": "VALFLEX",
+        "display_brand_name": "VALFLEX"
+    },
+    {
+        "brand_id": 2386455,
+        "original_brand_name": "Vedamotors",
+        "display_brand_name": "Vedamotors"
+    },
+    {
+        "brand_id": 2386489,
+        "original_brand_name": "Vipal Borrachas",
+        "display_brand_name": "Vipal Borrachas"
+    },
+    {
+        "brand_id": 2386543,
+        "original_brand_name": "Wgk Indústria",
+        "display_brand_name": "Wgk Indústria"
+    },
+    {
+        "brand_id": 2386611,
+        "original_brand_name": "Zouil",
+        "display_brand_name": "Zouil"
+    },
+    {
+        "brand_id": 2413683,
+        "original_brand_name": "tork",
+        "display_brand_name": "tork"
+    },
+    {
+        "brand_id": 2413694,
+        "original_brand_name": "diafrag",
+        "display_brand_name": "diafrag"
+    },
+    {
+        "brand_id": 2413707,
+        "original_brand_name": "illion",
+        "display_brand_name": "illion"
+    },
+    {
+        "brand_id": 2413751,
+        "original_brand_name": "dafra",
+        "display_brand_name": "dafra"
+    },
+    {
+        "brand_id": 2413881,
+        "original_brand_name": "dannixx",
+        "display_brand_name": "dannixx"
+    },
+    {
+        "brand_id": 1146757,
+        "original_brand_name": "Michelin",
+        "display_brand_name": "Michelin"
+    },
+    {
+        "brand_id": 1146780,
+        "original_brand_name": "Motul",
+        "display_brand_name": "motul"
+    },
+    {
+        "brand_id": 1802940,
+        "original_brand_name": "Yamaha",
+        "display_brand_name": "Yamaha"
+    },
+    {
+        "brand_id": 1964467,
+        "original_brand_name": "Automobiles Citroën",
+        "display_brand_name": "Automobiles Citroën"
+    },
+    {
+        "brand_id": 1964508,
+        "original_brand_name": "BMW",
+        "display_brand_name": "BMW"
+    },
+    {
+        "brand_id": 1964714,
+        "original_brand_name": "CAOA Chery",
+        "display_brand_name": "CAOA Chery"
+    },
+    {
+        "brand_id": 1964801,
+        "original_brand_name": "Chrysler",
+        "display_brand_name": "Chrysler"
+    },
+    {
+        "brand_id": 1964885,
+        "original_brand_name": "DAIHATSU",
+        "display_brand_name": "DAIHATSU"
+    },
+    {
+        "brand_id": 1965042,
+        "original_brand_name": "Dunlop",
+        "display_brand_name": "Dunlop"
+    },
+    {
+        "brand_id": 1965209,
+        "original_brand_name": "Fiat",
+        "display_brand_name": "Fiat"
+    },
+    {
+        "brand_id": 1965233,
+        "original_brand_name": "Fomoco",
+        "display_brand_name": "Fomoco"
+    },
+    {
+        "brand_id": 1965528,
+        "original_brand_name": "Hyundai",
+        "display_brand_name": "Hyundai"
+    },
+    {
+        "brand_id": 1965529,
+        "original_brand_name": "Hyundai Mobis",
+        "display_brand_name": "Hyundai Mobis"
+    },
+    {
+        "brand_id": 1965587,
+        "original_brand_name": "JAC Motors",
+        "display_brand_name": "JAC Motors"
+    },
+    {
+        "brand_id": 1966032,
+        "original_brand_name": "MG",
+        "display_brand_name": "MG"
+    },
+    {
+        "brand_id": 1966052,
+        "original_brand_name": "MOMO",
+        "display_brand_name": "MOMO"
+    },
+    {
+        "brand_id": 1966066,
+        "original_brand_name": "MTF",
+        "display_brand_name": "MTF"
+    },
+    {
+        "brand_id": 1966072,
+        "original_brand_name": "MV Agusta Motor",
+        "display_brand_name": "MV Agusta Motor"
+    },
+    {
+        "brand_id": 1966224,
+        "original_brand_name": "Mitsubishi Motors",
+        "display_brand_name": "Mitsubishi Motors"
+    },
+    {
+        "brand_id": 1966353,
+        "original_brand_name": "Nakata",
+        "display_brand_name": "Nakata"
+    },
+    {
+        "brand_id": 1966643,
+        "original_brand_name": "Porsche",
+        "display_brand_name": "Porsche"
+    },
+    {
+        "brand_id": 1966771,
+        "original_brand_name": "Renault",
+        "display_brand_name": "Renault"
+    },
+    {
+        "brand_id": 1967077,
+        "original_brand_name": "Spicer",
+        "display_brand_name": "Spicer"
+    },
+    {
+        "brand_id": 1967114,
+        "original_brand_name": "Subaru",
+        "display_brand_name": "Subaru"
+    },
+    {
+        "brand_id": 1967419,
+        "original_brand_name": "Viper",
+        "display_brand_name": "Viper"
+    },
+    {
+        "brand_id": 1967443,
+        "original_brand_name": "Volcano",
+        "display_brand_name": "Volcano"
+    },
+    {
+        "brand_id": 1967447,
+        "original_brand_name": "Vonixx",
+        "display_brand_name": "Vonixx"
+    },
+    {
+        "brand_id": 1967606,
+        "original_brand_name": "ZM",
+        "display_brand_name": "ZM"
+    },
+    {
+        "brand_id": 1969382,
+        "original_brand_name": "SCUD",
+        "display_brand_name": "SCUD"
+    },
+    {
+        "brand_id": 2384076,
+        "original_brand_name": "3-RHO",
+        "display_brand_name": "3-RHO"
+    },
+    {
+        "brand_id": 2384257,
+        "original_brand_name": "Auto Quality",
+        "display_brand_name": "Auto Quality"
+    },
+    {
+        "brand_id": 2384262,
+        "original_brand_name": "Automotive Imports",
+        "display_brand_name": "Automotive Imports"
+    },
+    {
+        "brand_id": 2384503,
+        "original_brand_name": "CATIMOTO",
+        "display_brand_name": "CATIMOTO"
+    },
+    {
+        "brand_id": 2384545,
+        "original_brand_name": "CINOY",
+        "display_brand_name": "CINOY"
+    },
+    {
+        "brand_id": 2384840,
+        "original_brand_name": "Elitte Motors",
+        "display_brand_name": "Elitte Motors"
+    },
+    {
+        "brand_id": 2384890,
+        "original_brand_name": "Fabreck",
+        "display_brand_name": "Fabreck"
+    },
+    {
+        "brand_id": 2384992,
+        "original_brand_name": "G Componentes",
+        "display_brand_name": "G Componentes"
+    },
+    {
+        "brand_id": 2385044,
+        "original_brand_name": "Grampola",
+        "display_brand_name": "Grampola"
+    },
+    {
+        "brand_id": 2385464,
+        "original_brand_name": "Maggion",
+        "display_brand_name": "Maggion"
+    },
+    {
+        "brand_id": 2385908,
+        "original_brand_name": "Pirelli",
+        "display_brand_name": "Pirelli"
+    },
+    {
+        "brand_id": 2385986,
+        "original_brand_name": "Pro Tork",
+        "display_brand_name": "Pro Tork"
+    },
+    {
+        "brand_id": 2386096,
+        "original_brand_name": "Rolt do Brasil",
+        "display_brand_name": "Rolt do Brasil"
+    },
+    {
+        "brand_id": 2386369,
+        "original_brand_name": "Tiger Auto",
+        "display_brand_name": "Tiger Auto"
+    },
+    {
+        "brand_id": 2386489,
+        "original_brand_name": "Vipal Borrachas",
+        "display_brand_name": "Vipal Borrachas"
+    },
+    {
+        "brand_id": 2386558,
+        "original_brand_name": "WORKER",
+        "display_brand_name": "WORKER"
+    },
+    {
+        "brand_id": 2413621,
+        "original_brand_name": "GM",
+        "display_brand_name": "GM"
+    },
+    {
+        "brand_id": 2413634,
+        "original_brand_name": "emblemax",
+        "display_brand_name": "emblemax"
+    },
+    {
+        "brand_id": 2413659,
+        "original_brand_name": "kia / hyundai",
+        "display_brand_name": "kia / hyundai"
+    },
+    {
+        "brand_id": 2413751,
+        "original_brand_name": "dafra",
+        "display_brand_name": "dafra"
+    },
+    {
+        "brand_id": 2413871,
+        "original_brand_name": "engekar",
+        "display_brand_name": "engekar"
+    },
+    {
+        "brand_id": 2413987,
+        "original_brand_name": "firebreq",
+        "display_brand_name": "firebreq"
+    },
+    {
+        "brand_id": 2414006,
+        "original_brand_name": "controil",
+        "display_brand_name": "controil"
+    },
+    {
+        "brand_id": 2414217,
+        "original_brand_name": "delinte",
+        "display_brand_name": "delinte"
+    },
+    {
+        "brand_id": 2423360,
+        "original_brand_name": "Vortex",
+        "display_brand_name": "Vortex"
+    },
+    {
+        "brand_id": 2424437,
+        "original_brand_name": "CALOTAS GRID",
+        "display_brand_name": "CALOTAS GRID"
+    },
+    {
+        "brand_id": 2428034,
+        "original_brand_name": "Ellite Motors",
+        "display_brand_name": "Ellite Motors"
+    },
+    {
+        "brand_id": 2433586,
+        "original_brand_name": "DT NACIONAIS & IMPORTADOS",
+        "display_brand_name": "DT NACIONAIS & IMPORTADOS"
+    },
+    {
+        "brand_id": 2434621,
+        "original_brand_name": "Brandy",
+        "display_brand_name": "Brandy"
+    },
+    {
+        "brand_id": 2439483,
+        "original_brand_name": "Valeo",
+        "display_brand_name": "Valeo"
+    },
+    {
+        "brand_id": 2443475,
+        "original_brand_name": "Etaniz",
+        "display_brand_name": "Etaniz"
+    },
+    {
+        "brand_id": 2449624,
+        "original_brand_name": "KRMAI",
+        "display_brand_name": "KRMAI"
+    },
+    {
+        "brand_id": 2453280,
+        "original_brand_name": "SHOCKBRAS",
+        "display_brand_name": "SHOCKBRAS"
+    },
+    {
+        "brand_id": 2460160,
+        "original_brand_name": "Autoamérica",
+        "display_brand_name": "Autoamérica"
+    },
+    {
+        "brand_id": 2467434,
+        "original_brand_name": "TNT",
+        "display_brand_name": "TNT"
+    },
+    {
+        "brand_id": 2469542,
+        "original_brand_name": "USUAL BRINQUEDOS",
+        "display_brand_name": "USUAL BRINQUEDOS"
+    },
+    {
+        "brand_id": 2473792,
+        "original_brand_name": "Permak",
+        "display_brand_name": "Permak"
+    },
+    {
+        "brand_id": 2496400,
+        "original_brand_name": "Calota Grid",
+        "display_brand_name": "Calota Grid"
+    },
+    {
+        "brand_id": 2496614,
+        "original_brand_name": "CAR 80",
+        "display_brand_name": "CAR 80"
+    },
+    {
+        "brand_id": 2497346,
+        "original_brand_name": "Ampri",
+        "display_brand_name": "Ampri"
+    },
+    {
+        "brand_id": 2506418,
+        "original_brand_name": "Famastil",
+        "display_brand_name": "Famastil"
+    },
+    {
+        "brand_id": 2512107,
+        "original_brand_name": "Grid",
+        "display_brand_name": "Grid"
+    },
+    {
+        "brand_id": 2622067,
+        "original_brand_name": "Fiat Mopar",
+        "display_brand_name": "Fiat Mopar"
+    },
+    {
+        "brand_id": 2641934,
+        "original_brand_name": "Vulcanbor",
+        "display_brand_name": "Vulcanbor"
+    },
+    {
+        "brand_id": 2642368,
+        "original_brand_name": "Canello",
+        "display_brand_name": "Canello"
+    },
+    {
+        "brand_id": 2652787,
+        "original_brand_name": "DT IMPORTS",
+        "display_brand_name": "DT IMPORTS"
+    },
+    {
+        "brand_id": 2668658,
+        "original_brand_name": "Cinborg Pneus",
+        "display_brand_name": "Cinborg Pneus"
+    },
+    {
+        "brand_id": 2725738,
+        "original_brand_name": "Viemar",
+        "display_brand_name": "Viemar"
+    },
+    {
+        "brand_id": 2749949,
+        "original_brand_name": "VIPAL",
+        "display_brand_name": "VIPAL"
+    },
+    {
+        "brand_id": 2757931,
+        "original_brand_name": "Sq Só Qualidade",
+        "display_brand_name": "Sq Só Qualidade"
+    },
+    {
+        "brand_id": 2764487,
+        "original_brand_name": "startools",
+        "display_brand_name": "startools"
+    },
+    {
+        "brand_id": 2776372,
+        "original_brand_name": "Monroe Axios",
+        "display_brand_name": "Monroe Axios"
+    },
+    {
+        "brand_id": 2828216,
+        "original_brand_name": "ZEN",
+        "display_brand_name": "ZEN"
+    },
+    {
+        "brand_id": 2840623,
+        "original_brand_name": "Rodabras",
+        "display_brand_name": "Rodabras"
+    },
+    {
+        "brand_id": 2867396,
+        "original_brand_name": "SMART FOX",
+        "display_brand_name": "SMART FOX"
+    },
+    {
+        "brand_id": 2898804,
+        "original_brand_name": "Tiger Autos",
+        "display_brand_name": "Tiger Autos"
+    },
+    {
+        "brand_id": 2907187,
+        "original_brand_name": "VIBRASIL",
+        "display_brand_name": "VIBRASIL"
+    },
+    {
+        "brand_id": 2926344,
+        "original_brand_name": "COPBOR",
+        "display_brand_name": "COPBOR"
+    },
+    {
+        "brand_id": 2933329,
+        "original_brand_name": "Callmax",
+        "display_brand_name": "Callmax"
+    },
+    {
+        "brand_id": 2962967,
+        "original_brand_name": "DIVERSOS",
+        "display_brand_name": "DIVERSOS"
+    },
+    {
+        "brand_id": 3040426,
+        "original_brand_name": "Luxus",
+        "display_brand_name": "Luxus"
+    },
+    {
+        "brand_id": 3054088,
+        "original_brand_name": "Roltens",
+        "display_brand_name": "Roltens"
+    },
+    {
+        "brand_id": 3253984,
+        "original_brand_name": "IMPORTADO",
+        "display_brand_name": "IMPORTADO"
+    },
+    {
+        "brand_id": 3260060,
+        "original_brand_name": "Michigan Pneus",
+        "display_brand_name": "Michigan Pneus"
+    },
+    {
+        "brand_id": 3387107,
+        "original_brand_name": "SsangYong",
+        "display_brand_name": "SsangYong"
+    },
+    {
+        "brand_id": 3486262,
+        "original_brand_name": "MOPAR",
+        "display_brand_name": "MOPAR"
+    },
+    {
+        "brand_id": 3499739,
+        "original_brand_name": "Magnum tires",
+        "display_brand_name": "Magnum tires"
+    },
+    {
+        "brand_id": 3549678,
+        "original_brand_name": "GT RADIAL",
+        "display_brand_name": "GT RADIAL"
+    },
+    {
+        "brand_id": 3839831,
+        "original_brand_name": "Cx3 Acessórios",
+        "display_brand_name": "Cx3 Acessórios"
+    },
+    {
+        "brand_id": 3998951,
+        "original_brand_name": "Auto-Top Imports",
+        "display_brand_name": "Auto-Top Imports"
+    },
+    {
+        "brand_id": 4038336,
+        "original_brand_name": "SpeedMax",
+        "display_brand_name": "SpeedMax"
+    },
+    {
+        "brand_id": 1146757,
+        "original_brand_name": "Michelin",
+        "display_brand_name": "Michelin"
+    },
+    {
+        "brand_id": 1146780,
+        "original_brand_name": "Motul",
+        "display_brand_name": "motul"
+    },
+    {
+        "brand_id": 1802940,
+        "original_brand_name": "Yamaha",
+        "display_brand_name": "Yamaha"
+    },
+    {
+        "brand_id": 1965042,
+        "original_brand_name": "Dunlop",
+        "display_brand_name": "Dunlop"
+    },
+    {
+        "brand_id": 1965220,
+        "original_brand_name": "Firestone",
+        "display_brand_name": "Firestone"
+    },
+    {
+        "brand_id": 1965449,
+        "original_brand_name": "Hankook",
+        "display_brand_name": "Hankook"
+    },
+    {
+        "brand_id": 1965528,
+        "original_brand_name": "Hyundai",
+        "display_brand_name": "Hyundai"
+    },
+    {
+        "brand_id": 1966064,
+        "original_brand_name": "MTA",
+        "display_brand_name": "MTA"
+    },
+    {
+        "brand_id": 1966196,
+        "original_brand_name": "Metzeler",
+        "display_brand_name": "Metzeler"
+    },
+    {
+        "brand_id": 1966224,
+        "original_brand_name": "Mitsubishi Motors",
+        "display_brand_name": "Mitsubishi Motors"
+    },
+    {
+        "brand_id": 1966904,
+        "original_brand_name": "SONAR",
+        "display_brand_name": "SONAR"
+    },
+    {
+        "brand_id": 1967187,
+        "original_brand_name": "TOYO",
+        "display_brand_name": "TOYO"
+    },
+    {
+        "brand_id": 1967419,
+        "original_brand_name": "Viper",
+        "display_brand_name": "Viper"
+    },
+    {
+        "brand_id": 1969227,
+        "original_brand_name": "Maxxis",
+        "display_brand_name": "Maxxis"
+    },
+    {
+        "brand_id": 1969382,
+        "original_brand_name": "SCUD",
+        "display_brand_name": "SCUD"
+    },
+    {
+        "brand_id": 2384129,
+        "original_brand_name": "Calçados Alcalay",
+        "display_brand_name": "Calçados Alcalay"
+    },
+    {
+        "brand_id": 2384379,
+        "original_brand_name": "BMS RACING",
+        "display_brand_name": "BMS RACING"
+    },
+    {
+        "brand_id": 2384389,
+        "original_brand_name": "Bomber",
+        "display_brand_name": "Bomber"
+    },
+    {
+        "brand_id": 2384503,
+        "original_brand_name": "CATIMOTO",
+        "display_brand_name": "CATIMOTO"
+    },
+    {
+        "brand_id": 2384890,
+        "original_brand_name": "Fabreck",
+        "display_brand_name": "Fabreck"
+    },
+    {
+        "brand_id": 2384922,
+        "original_brand_name": "Fertak Tools",
+        "display_brand_name": "Fertak Tools"
+    },
+    {
+        "brand_id": 2385160,
+        "original_brand_name": "IMPORTWAY",
+        "display_brand_name": "IMPORTWAY"
+    },
+    {
+        "brand_id": 2385203,
+        "original_brand_name": "J.K BR Imports",
+        "display_brand_name": "J.K BR Imports"
+    },
+    {
+        "brand_id": 2385375,
+        "original_brand_name": "Levorin",
+        "display_brand_name": "Levorin"
+    },
+    {
+        "brand_id": 2385464,
+        "original_brand_name": "Maggion",
+        "display_brand_name": "Maggion"
+    },
+    {
+        "brand_id": 2385748,
+        "original_brand_name": "Nove 54",
+        "display_brand_name": "Nove 54"
+    },
+    {
+        "brand_id": 2385908,
+        "original_brand_name": "Pirelli",
+        "display_brand_name": "Pirelli"
+    },
+    {
+        "brand_id": 2385986,
+        "original_brand_name": "Pro Tork",
+        "display_brand_name": "Pro Tork"
+    },
+    {
+        "brand_id": 2386343,
+        "original_brand_name": "Technic",
+        "display_brand_name": "Technic"
+    },
+    {
+        "brand_id": 2386489,
+        "original_brand_name": "Vipal Borrachas",
+        "display_brand_name": "Vipal Borrachas"
+    },
+    {
+        "brand_id": 2386513,
+        "original_brand_name": "VONDER",
+        "display_brand_name": "VONDER"
+    },
+    {
+        "brand_id": 2413788,
+        "original_brand_name": "fras-le",
+        "display_brand_name": "fras-le"
+    },
+    {
+        "brand_id": 2413987,
+        "original_brand_name": "firebreq",
+        "display_brand_name": "firebreq"
+    },
+    {
+        "brand_id": 2414217,
+        "original_brand_name": "delinte",
+        "display_brand_name": "delinte"
+    },
+    {
+        "brand_id": 2423360,
+        "original_brand_name": "Vortex",
+        "display_brand_name": "Vortex"
+    },
+    {
+        "brand_id": 2426072,
+        "original_brand_name": "KMP",
+        "display_brand_name": "KMP"
+    },
+    {
+        "brand_id": 2433586,
+        "original_brand_name": "DT NACIONAIS & IMPORTADOS",
+        "display_brand_name": "DT NACIONAIS & IMPORTADOS"
+    },
+    {
+        "brand_id": 2434621,
+        "original_brand_name": "Brandy",
+        "display_brand_name": "Brandy"
+    },
+    {
+        "brand_id": 2440387,
+        "original_brand_name": "Colson",
+        "display_brand_name": "Colson"
+    },
+    {
+        "brand_id": 2443475,
+        "original_brand_name": "Etaniz",
+        "display_brand_name": "Etaniz"
+    },
+    {
+        "brand_id": 2443518,
+        "original_brand_name": "IRA TIRES",
+        "display_brand_name": "IRA TIRES"
+    },
+    {
+        "brand_id": 2460160,
+        "original_brand_name": "Autoamérica",
+        "display_brand_name": "Autoamérica"
+    },
+    {
+        "brand_id": 2467434,
+        "original_brand_name": "TNT",
+        "display_brand_name": "TNT"
+    },
+    {
+        "brand_id": 2469542,
+        "original_brand_name": "USUAL BRINQUEDOS",
+        "display_brand_name": "USUAL BRINQUEDOS"
+    },
+    {
+        "brand_id": 2472596,
+        "original_brand_name": "Small",
+        "display_brand_name": "Small"
+    },
+    {
+        "brand_id": 2484351,
+        "original_brand_name": "FALKEN",
+        "display_brand_name": "FALKEN"
+    },
+    {
+        "brand_id": 2484645,
+        "original_brand_name": "HIFLY",
+        "display_brand_name": "HIFLY"
+    },
+    {
+        "brand_id": 2486309,
+        "original_brand_name": "Westlake",
+        "display_brand_name": "Westlake"
+    },
+    {
+        "brand_id": 2496614,
+        "original_brand_name": "CAR 80",
+        "display_brand_name": "CAR 80"
+    },
+    {
+        "brand_id": 2506418,
+        "original_brand_name": "Famastil",
+        "display_brand_name": "Famastil"
+    },
+    {
+        "brand_id": 2540959,
+        "original_brand_name": "XBRI",
+        "display_brand_name": "XBRI"
+    },
+    {
+        "brand_id": 2641934,
+        "original_brand_name": "Vulcanbor",
+        "display_brand_name": "Vulcanbor"
+    },
+    {
+        "brand_id": 2642368,
+        "original_brand_name": "Canello",
+        "display_brand_name": "Canello"
+    },
+    {
+        "brand_id": 2652787,
+        "original_brand_name": "DT IMPORTS",
+        "display_brand_name": "DT IMPORTS"
+    },
+    {
+        "brand_id": 2668658,
+        "original_brand_name": "Cinborg Pneus",
+        "display_brand_name": "Cinborg Pneus"
+    },
+    {
+        "brand_id": 2674439,
+        "original_brand_name": "Leva Pra Casa",
+        "display_brand_name": "Leva Pra Casa"
+    },
+    {
+        "brand_id": 2710952,
+        "original_brand_name": "GR8sports",
+        "display_brand_name": "GR8sports"
+    },
+    {
+        "brand_id": 2731142,
+        "original_brand_name": "Lotus",
+        "display_brand_name": "Lotus"
+    },
+    {
+        "brand_id": 2749949,
+        "original_brand_name": "VIPAL",
+        "display_brand_name": "VIPAL"
+    },
+    {
+        "brand_id": 2757931,
+        "original_brand_name": "Sq Só Qualidade",
+        "display_brand_name": "Sq Só Qualidade"
+    },
+    {
+        "brand_id": 2764487,
+        "original_brand_name": "startools",
+        "display_brand_name": "startools"
+    },
+    {
+        "brand_id": 2787710,
+        "original_brand_name": "Durable",
+        "display_brand_name": "Durable"
+    },
+    {
+        "brand_id": 2840623,
+        "original_brand_name": "Rodabras",
+        "display_brand_name": "Rodabras"
+    },
+    {
+        "brand_id": 2867396,
+        "original_brand_name": "SMART FOX",
+        "display_brand_name": "SMART FOX"
+    },
+    {
+        "brand_id": 2878927,
+        "original_brand_name": "LNG AUTOMOTIVE PARTS",
+        "display_brand_name": "LNG AUTOMOTIVE PARTS"
+    },
+    {
+        "brand_id": 2890426,
+        "original_brand_name": "RX TYRES",
+        "display_brand_name": "RX TYRES"
+    },
+    {
+        "brand_id": 2892855,
+        "original_brand_name": "Rinaldi",
+        "display_brand_name": "Rinaldi"
+    },
+    {
+        "brand_id": 2896152,
+        "original_brand_name": "Frontier Genuine Parts",
+        "display_brand_name": "Frontier Genuine Parts"
+    },
+    {
+        "brand_id": 2958921,
+        "original_brand_name": "Atlas",
+        "display_brand_name": "Atlas"
+    },
+    {
+        "brand_id": 2984584,
+        "original_brand_name": "RoadWell",
+        "display_brand_name": "RoadWell"
+    },
+    {
+        "brand_id": 3008743,
+        "original_brand_name": "Minerva",
+        "display_brand_name": "Minerva"
+    },
+    {
+        "brand_id": 3008814,
+        "original_brand_name": "JK Tyre",
+        "display_brand_name": "JK Tyre"
+    },
+    {
+        "brand_id": 3008840,
+        "original_brand_name": "Kooler Tyres",
+        "display_brand_name": "Kooler Tyres"
+    },
+    {
+        "brand_id": 3240676,
+        "original_brand_name": "PIREMAXX",
+        "display_brand_name": "PIREMAXX"
+    },
+    {
+        "brand_id": 3260060,
+        "original_brand_name": "Michigan Pneus",
+        "display_brand_name": "Michigan Pneus"
+    },
+    {
+        "brand_id": 3316584,
+        "original_brand_name": "ROBUST",
+        "display_brand_name": "ROBUST"
+    },
+    {
+        "brand_id": 3418733,
+        "original_brand_name": "Sunf",
+        "display_brand_name": "Sunf"
+    },
+    {
+        "brand_id": 3465131,
+        "original_brand_name": "Safe",
+        "display_brand_name": "Safe"
+    },
+    {
+        "brand_id": 3486262,
+        "original_brand_name": "MOPAR",
+        "display_brand_name": "MOPAR"
+    },
+    {
+        "brand_id": 3493139,
+        "original_brand_name": "Apollo Tyres",
+        "display_brand_name": "Apollo Tyres"
+    },
+    {
+        "brand_id": 3493174,
+        "original_brand_name": "Provato",
+        "display_brand_name": "Provato"
+    },
+    {
+        "brand_id": 3499712,
+        "original_brand_name": "Farroad",
+        "display_brand_name": "Farroad"
+    },
+    {
+        "brand_id": 3499739,
+        "original_brand_name": "Magnum tires",
+        "display_brand_name": "Magnum tires"
+    },
+    {
+        "brand_id": 3501584,
+        "original_brand_name": "Comforser",
+        "display_brand_name": "Comforser"
+    },
+    {
+        "brand_id": 3507207,
+        "original_brand_name": "KUMHO TIRES",
+        "display_brand_name": "KUMHO TIRES"
+    },
+    {
+        "brand_id": 3549678,
+        "original_brand_name": "GT RADIAL",
+        "display_brand_name": "GT RADIAL"
+    },
+    {
+        "brand_id": 3792587,
+        "original_brand_name": "Resfriar",
+        "display_brand_name": "Resfriar"
+    },
+    {
+        "brand_id": 3804382,
+        "original_brand_name": "Lanvigator",
+        "display_brand_name": "Lanvigator"
+    },
+    {
+        "brand_id": 3806259,
+        "original_brand_name": "Duron-Maxx",
+        "display_brand_name": "Duron-Maxx"
+    },
+    {
+        "brand_id": 3839831,
+        "original_brand_name": "Cx3 Acessórios",
+        "display_brand_name": "Cx3 Acessórios"
+    },
+    {
+        "brand_id": 3998951,
+        "original_brand_name": "Auto-Top Imports",
+        "display_brand_name": "Auto-Top Imports"
+    },
+    {
+        "brand_id": 4038336,
+        "original_brand_name": "SpeedMax",
+        "display_brand_name": "SpeedMax"
+    },
+    {
+        "brand_id": 4039085,
+        "original_brand_name": "Italspeed automotive LTDA",
+        "display_brand_name": "Italspeed automotive LTDA"
+    },
+    {
+        "brand_id": 4144076,
+        "original_brand_name": "Oxroad",
+        "display_brand_name": "Oxroad"
+    },
+    {
+        "brand_id": 4144235,
+        "original_brand_name": "Speed Tires",
+        "display_brand_name": "Speed Tires"
+    },
+    {
+        "brand_id": 4158774,
+        "original_brand_name": "Western",
+        "display_brand_name": "Western"
+    },
+    {
+        "brand_id": 4248959,
+        "original_brand_name": "Luguinet",
+        "display_brand_name": "Luguinet"
+    },
+    {
+        "brand_id": 4269113,
+        "original_brand_name": "Yokohama",
+        "display_brand_name": "Yokohama"
+    },
+    {
+        "brand_id": 4270601,
+        "original_brand_name": "MR Discos",
+        "display_brand_name": "MR Discos"
+    },
+    {
+        "brand_id": 4273840,
+        "original_brand_name": "Aeolus",
+        "display_brand_name": "Aeolus"
+    }
+]
